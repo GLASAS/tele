@@ -7,8 +7,6 @@ http://23.153.217.158:8080/963106051tv/i6789pxan/327
 http://23.153.217.158:8080/963106051tv/i6789pxan/330
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL CAPITAL (HD)" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="→ COLOMBIA ←", CANAL CAPITAL (HD)
 http://23.153.217.158:8080/963106051tv/i6789pxan/328
-#EXTINF:-1 tvg-id="" tvg-name=" CANAL TRO (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="→ COLOMBIA ←", CANAL TRO (HD)
-http://23.153.217.158:8080/963106051tv/i6789pxan/329
 #EXTINF:-1 tvg-id="" tvg-name=" CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←", CARACOL (HD) »1«
 http://23.153.217.158:8080/963106051tv/i6789pxan/331
 #EXTINF:-1 tvg-id="" tvg-name=" CARACOL (HD) »2«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←", CARACOL (HD) »2«
@@ -25,8 +23,6 @@ http://23.153.217.158:8080/963106051tv/i6789pxan/336
 http://23.153.217.158:8080/963106051tv/i6789pxan/337
 #EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV  FHD**" tvg-logo="http://visualservice.xyz:80/images/b24080d53734cf8d45ac547c65abf12c.png" group-title="→ COLOMBIA ←",COL | CITY TV  FHD**
 http://23.153.217.158:8080/963106051tv/i6789pxan/270523
-#EXTINF:-1 tvg-id="" tvg-name=" EL TRECE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="→ COLOMBIA ←", EL TRECE (HD)
-http://23.153.217.158:8080/963106051tv/i6789pxan/338
 #EXTINF:-1 tvg-id="" tvg-name=" NTN 24 (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←", NTN 24 (HD) »1«
 http://23.153.217.158:8080/963106051tv/i6789pxan/339
 #EXTINF:-1 tvg-id="" tvg-name=" NTN 24 (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←", NTN 24 (HD) »2«
@@ -53,11 +49,7 @@ http://23.153.217.158:8080/963106051tv/i6789pxan/349
 http://23.153.217.158:8080/963106051tv/i6789pxan/350
 #EXTINF:-1 tvg-id="" tvg-name=" TELEANTIOQUIA (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="→ COLOMBIA ←", TELEANTIOQUIA (HD)
 http://23.153.217.158:8080/963106051tv/i6789pxan/351
-#EXTINF:-1 tvg-id="" tvg-name=" TELECAFE (HD)" tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="→ COLOMBIA ←", TELECAFE (HD)
-http://23.153.217.158:8080/963106051tv/i6789pxan/352
-#EXTINF:-1 tvg-id="" tvg-name=" TELECARIBE (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←", TELECARIBE (HD) »1«
-http://23.153.217.158:8080/963106051tv/i6789pxan/353
-#EXTINF:-1 tvg-id="" tvg-name=" TELECARIBE (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←", TELECARIBE (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name=" TELECARIBE (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←", TELECARIBE (HD)
 http://23.153.217.158:8080/963106051tv/i6789pxan/354
 #EXTINF:-1 tvg-id="" tvg-name=" TELEMEDELLIN (HD) »1«" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="→ COLOMBIA ←", TELEMEDELLIN (HD) »1«
 http://23.153.217.158:8080/963106051tv/i6789pxan/355
