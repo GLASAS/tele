@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="Deportes y Entretenimiento",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="Documentales",NASA TV HD
+https://nasa-i.akamaihd.net/hls/live/511540/NASA-TV-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="" group-title="Noticias",DW Español (Noticias)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="" group-title="Noticias",France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
