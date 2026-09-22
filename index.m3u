@@ -81,3 +81,21 @@ http://23.153.217.158:8080/963106051tv/i6789pxan/359
 http://23.153.217.158:8080/963106051tv/i6789pxan/360
 #EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS+ (HD) »3«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FÚTBOL COLOMBIA", WIN SPORTS+ (HD) »3«
 http://23.153.217.158:8080/963106051tv/i6789pxan/361
+#EXTINF:-1 tvg-id="pelicula1" tvg-name="Pelicula 1" tvg-logo="https://detodopeliculas.net/wp-content/uploads/2025/07/The_Fantastic_Four_First_Steps_new-185x278.webp" group-title="PelÃ­culas",Pelicula 1
+https://drive.google.com/file/d/1VYsYiUsTc8R2LT5YIpiE03dEuhJYWTk7/view?usp=sharing
+
+#EXTINF:-1 tvg-id="pelicula2" tvg-name="Pelicula 2" tvg-logo="https://detodopeliculas.net/wp-content/uploads/2025/07/Superman_poster_usa-185x278.webp" group-title="PelÃ­culas",Pelicula 2
+https://drive.google.com/file/d/1B7GQJR8YwNnBzdUp4eb7ZGWJ4U2nDNye/view?usp=sharing
+
+#EXTINF:-1 tvg-id="pelicula3" tvg-name="Pelicula 3" tvg-logo="https://detodopeliculas.net/wp-content/uploads/2025/06/F1_The_Movie_poster_usa-185x278.webp" group-title="PelÃ­culas",Pelicula 3
+https://drive.google.com/file/d/1LsSWuX36FHMnHhp93BSQlzuNczog_Lv3/view?usp=sharing
+
+#EXTINF:-1 tvg-id="pelicula4" tvg-name="Pelicula 4" tvg-logo="" group-title="PelÃ­culas",Pelicula 4
+https://drive.google.com/file/d/1J0sMHsFgN8r6cAvRoWMmT6HltTxImNx_/view?usp=sharing
+
+#EXTINF:-1 tvg-id="pelicula5" tvg-name="Pelicula 5" tvg-logo="URL_DEL_LOGO" group-title="PelÃ­culas",Pelicula 5
+https://drive.google.com/file/d/1Gj_21SrbTDGIwnfY0YKLOovJaPWO-3h7/view?usp=sharing
+
+
+#EXTINF:-1 tvg-id="pelicula6" tvg-name="Pelicula 6" tvg-logo="URL_DEL_LOGO" group-title="PelÃ­culas",Pelicula 6
+https://drive.google.com/file/d/1C5K9xNO4mc6kJNKEXDZ3Me_ae-QP_wK4/view?usp=sharing
