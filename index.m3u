@@ -96,6 +96,9 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="Simpson" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512" group-title="→ 24/7 2 ←",simpaon
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="→ 24/7 2 ←",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 
 #*****************************
 #**** PARABOLICA COLOMBIA ****
@@ -274,52 +277,6 @@ http://72.1.184.5:8089/play/a05d/index.m3u8
 #**** OTROS ****
 #*****************************
 
-#EXTINF:-1 tvg-id="EbenezerTV.hn@SD" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="otros",Ebenezer TV (1080p)
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="otros",EbS (1080p)
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="otros",EbS+ (1080p)
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 tvg-id="EclipseTV.mx@SD" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" group-title="otros",Eclipse TV (720p)
-https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
-#EXTINF:-1 tvg-id="ECOTelevision.pe@SD" tvg-logo="https://i.imgur.com/ly1KU6w.png" group-title="otros",ECO Television (720p)
-https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
-#EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="otros",Eco TV
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EcosCanal57.do@HD" tvg-logo="https://imgur.com/ccFwraQ.png" group-title="otros",Ecos Canal 57 (1080p) [Not 24/7]
-https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
-#EXTINF:-1 tvg-id="EcotelTV.ec@SD" tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="otros",Ecotel TV (720p)
-https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="otros",Ecovision (720p)
-https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec@SD" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="otros",Ecuador TV (1080p)
-http://45.224.97.181:9999/EcuadorTV/index.m3u8
-#EXTINF:-1 tvg-id="EcuaMundoRadioTV.ec@SD" tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="otros",EcuaMundo Radio TV (720p) [Not 24/7]
-https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="otros",Ecuavisa (1080p)
-http://45.171.108.253:8888/ECUAVISA/index.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="otros",Ecuavisa Guayaquil (1080p) [Not 24/7]
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="EDNTV.hn@SD" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="otros",EDN TV (1080p) [Not 24/7]
-https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 tvg-id="EducaTV.ec@SD" tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="otros",Educa TV (720p) [Not 24/7]
-https://avm.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="otros",Eduvision (1080p)
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="EGMChannel.cl@SD" tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="otros",EGM Channel (480p)
-https://paneltv.online:1936/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="El3deConce.cl@SD" tvg-logo="https://i.imgur.com/KvsrWyE.png" group-title="otros",El 3 de Conce
-https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
-#EXTINF:-1 tvg-id="El15TV.sv@SD" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="otros",El 15 TV (720p) [Not 24/7]
-https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
-#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="otros",El Camino TV (480p)
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElCanalFeliz.cl@SD" tvg-logo="https://i.imgur.com/UlmYraS.png" group-title="otros",El Canal Feliz (720p)
-http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
-#EXTINF:-1 tvg-id="ElCentroTV.cl@SD" tvg-logo="https://i.imgur.com/2KqGHvA.png" group-title="otros",El Centro TV (720p)
-https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="otros",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="ElComisario.us@Spain" tvg-logo="https://i.imgur.com/XYt8utn.png" group-title="otros",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 #EXTINF:-1 tvg-id="ELDEBER.bo@SD" tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" group-title="otros",EL DEBER (1080p)
