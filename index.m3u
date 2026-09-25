@@ -2798,62 +2798,63 @@ http://86.87.15.10:8004/play/a02d/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
 
+#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="→ 24/7 2 ←",Avatar: La Leyenda de Aang
 
 
-#EXTINF:-1 group-title="→ 24/7 ←";Caso Cerrado
+#EXTINF:-1 group-title="→ 24/7 ←",Caso Cerrado
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126373.m3u8 
-#EXTINF: group-title="→ 24/7 ←";La Familia P. Luchehttp://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126374.m3u8 
-#EXTINF: group-title="→ 24/7 ←";S| Alerta Aeropuerto
+#EXTINF: group-title="→ 24/7 ←",La Familia P. Luchehttp://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126374.m3u8 
+#EXTINF: group-title="→ 24/7 ←",S| Alerta Aeropuerto
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126375.m3u8 
-#EXTINF: group-title="→ 24/7 ←";Friends
+#EXTINF: group-title="→ 24/7 ←",Friends
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126376.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Acapulco Shore FHD
+#EXTINF: group-title="→ 24/7 ←",| Acapulco Shore FHD
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126377.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Desafío de fuego
+#EXTINF: group-title="→ 24/7 ←",| Desafío de fuego
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126378.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| CSI Miami
+#EXTINF: group-title="→ 24/7 ←",| CSI Miami
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126379.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Death Note
+#EXTINF: group-title="→ 24/7 ←",| Death Note
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126380.m3u8 
-EXTINF: group-title="→ 24/7 ←";| DesEncanto
+EXTINF: group-title="→ 24/7 ←",| DesEncanto
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126381.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Dr. House
+#EXTINF: group-title="→ 24/7 ←",| Dr. House
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126382.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Dragon Ball
+#EXTINF: group-title="→ 24/7 ←",| Dragon Ball
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126383.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Dragon Ball Super 1
+#EXTINF: group-title="→ 24/7 ←",| Dragon Ball Super 1
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126384.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Dragon Ball Super 2
+#EXTINF: group-title="→ 24/7 ←",| Dragon Ball Super 2
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126385.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Dragon Ball Z Saga Cell
+#EXTINF: group-title="→ 24/7 ←",| Dragon Ball Z Saga Cell
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126386.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| El Principe del Rap
+#EXTINF: group-title="→ 24/7 ←",| El Principe del Rap
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126387.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Escobar: el patron del mal
+#EXTINF: group-title="→ 24/7 ←",| Escobar: el patron del mal
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126388.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Extranormal
+#EXTINF: group-title="→ 24/7 ←",| Extranormal
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126389.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Futurama
+#EXTINF: group-title="→ 24/7 ←",| Futurama
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126390.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Juego del Calamar
+#EXTINF: group-title="→ 24/7 ←",| Juego del Calamar
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126391.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| La Familia Peluche
+#EXTINF: group-title="→ 24/7 ←",| La Familia Peluche
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126392.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| La Hora Pico
+#EXTINF: group-title="→ 24/7 ←",| La Hora Pico
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126393.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Los Simpson
+#EXTINF: group-title="→ 24/7 ←",| Los Simpson
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126394.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Los Simpson HD
+#EXTINF: group-title="→ 24/7 ←",| Los Simpson HD
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126395.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Los Simpson New HD
+#EXTINF: group-title="→ 24/7 ←",| Los Simpson New HD
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126396.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Los Simpsons Casitas del Horror
+#EXTINF: group-title="→ 24/7 ←",| Los Simpsons Casitas del Horror
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126397.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| The Big Bang Theory
+#EXTINF: group-title="→ 24/7 ←",| The Big Bang Theory
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126398.m3u8
-#EXTINF: group-title="→ 24/7 ←";| The Walking Dead
+#EXTINF: group-title="→ 24/7 ←",| The Walking Dead
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126399.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| Rick y Morty
+#EXTINF: group-title="→ 24/7 ←",| Rick y Morty
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126400.m3u8 
 #EXTINF:-1,24/7: Smallville
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126401.m3u8 
@@ -2863,21 +2864,21 @@ http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126402.m3u8
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126403.m3u8
 #EXTINF:-1,24/7: Malcolm
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126404.m3u8 
-#EXTINF: group-title="→ 24/7 ←";LOS MAGNIFICOS
+#EXTINF: group-title="→ 24/7 ←",LOS MAGNIFICOS
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126405.m3u8 
 #EXTINF:-1,24/7: El Chapulin Colorado
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126406.m3u8 
-#EXTINF: group-title="→ 24/7 ←";CANTINFLAS
+#EXTINF: group-title="→ 24/7 ←",CANTINFLAS
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126407.m3u8 
-#EXTINF: group-title="→ 24/7 ←";Vecinos
+#EXTINF: group-title="→ 24/7 ←",Vecinos
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126408.m3u8 
-#EXTINF: group-title="→ 24/7 ←";SUPER DRAGON BALL HÉROES
+#EXTINF: group-title="→ 24/7 ←",SUPER DRAGON BALL HÉROES
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126409.m3u8 
-#EXTINF: group-title="→ 24/7 ←";| El Chavo del Ocho
+#EXTINF: group-title="→ 24/7 ←",| El Chavo del Ocho
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126410.m3u8 
-#EXTINF: group-title="→ 24/7 ←";El Chavo
+#EXTINF: group-title="→ 24/7 ←",El Chavo
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126411.m3u8 
-#EXTINF: group-title="→ 24/7 ←"; Los Tres Chiflados
+#EXTINF: group-title="→ 24/7 ←", Los Tres Chiflados
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126412.m3u8 
-#EXTINF: group-title="→ 24/7 ←";Friends
+#EXTINF: group-title="→ 24/7 ←",Friends
 http://micaplay.com:8080/live/CA701/PBM8S9bsFAru/126413.m3u8
