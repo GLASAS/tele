@@ -551,316 +551,136 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Otros",A&E
 http://usuarios.club/usuarios/src1/AEHD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Otros",A&E (Opcion 2)
 http://usuarios.club/usuarios/src2/AE_MUNDO_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Otros",A&E (720p)
 http://usuarios.club/usuarios/src2/AE_MUNDO_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xnPDd/ef771257b3.png" group-title="Entretenimiento",A3Series
 http://usuarios.club/usuarios/src4/A3Series/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xuJBp/5d44dd9abb.png" group-title="Noticias",ADN 40
-http://usuarios.club/usuarios/src4/ADN40/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xh2SQ/6a026e0f97.png" group-title="Entretenimiento",Alf 24/7
 http://usuarios.club/usuarios/src3/Alf/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png" group-title="Entretenimiento",AMC
-http://usuarios.club/usuarios/src1/AMC/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png" group-title="Entretenimiento",AMC (Opcion 2)
-http://usuarios.club/usuarios/src2/AMC_HD/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png" group-title="Entretenimiento",AMC (720p)
-http://usuarios.club/usuarios/src2/AMC_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet
 http://usuarios.club/usuarios/src1/AnimalPlanet/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet (Opcion 2)
 http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet (720p)
 http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png" group-title="Entretenimiento",Anime 24H
 http://usuarios.club/usuarios/src4/Anime24H/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3
-http://usuarios.club/usuarios/src4/Antena3/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3 (Opcion 2)
-http://usuarios.club/usuarios/src2/ANTENA3/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3 (720p)
-http://usuarios.club/usuarios/src2/ANTENA3/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reNoV/a0a6c77c7c.png" group-title="Brasil",Aparecida Brasil
-http://usuarios.club/usuarios/src4/AparecidaBrasil/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tqWGU/8642e69f30.png" group-title="Noticias",Aristegui Noticias
-http://usuarios.club/usuarios/src4/AristeguiNoticias/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN
 http://usuarios.club/usuarios/src5/AXN/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN (Opcion 2)
 http://usuarios.club/usuarios/src2/AXN_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN (720p)
 http://usuarios.club/usuarios/src2/AXN_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reK1Q/e9a03ded2c.png" group-title="Deportes",AyM Sports
 http://usuarios.club/usuarios/src5/AyMSports/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reKEj/7d9a634b74.png" group-title="Peliculas",Az Cinema
 http://usuarios.club/usuarios/src5/AzCinema/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reKF3/42c6f26362.png" group-title="Entretenimiento",Az Clic
-http://usuarios.club/usuarios/src5/AzClic/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón
-http://usuarios.club/usuarios/src1/AzCorazon/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón (Opcion 2)
-http://usuarios.club/usuarios/src2/AZCORAZON_HD/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón (720p)
-http://usuarios.club/usuarios/src2/AZCORAZON_HD/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="Entretenimiento",Az Mundo (Opcion 2)
-http://usuarios.club/usuarios/src2/AZMUNDO_HD/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="Entretenimiento",Az Mundo (720p)
-http://usuarios.club/usuarios/src2/AZMUNDO_HD/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/wcPRU/132561d945.png" group-title="Mexico",Azteca +
-http://usuarios.club/usuarios/src4/AztecaMas/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13
-http://usuarios.club/usuarios/src4/Azteca13/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13 Op. 2
-http://usuarios.club/usuarios/src1/Azteca13_2/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7
-http://usuarios.club/usuarios/src1/Azteca7/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7 Op. 2
-http://usuarios.club/usuarios/src4/Azteca7/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/mbLxU/786687775b.png" group-title="Infantiles",Baby TV
 http://usuarios.club/usuarios/src5/BabyTV/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" group-title="Musica",Bandamax
 http://usuarios.club/usuarios/src1/Bandamax/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMym/28fb4e2cc5.png" group-title="Entretenimiento",BBC Entertainment
-http://usuarios.club/usuarios/src1/BBCEntertainment/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports
 http://usuarios.club/usuarios/src5/BeinSports/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports 1
 http://usuarios.club/usuarios/src5/Deportes1/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ
 http://usuarios.club/usuarios/src5/BeinSportsN/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ HD
 http://usuarios.club/usuarios/src5/Bein/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reMzt/5760bb9648.png" group-title="Noticias",Bloomberg
 http://usuarios.club/usuarios/src4/Bloomberg/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/y0Qah/26ddc7291a.png" group-title="Entretenimiento",Bob Esponja 24/7
 http://usuarios.club/usuarios/src3/BobEsponja/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang
 http://usuarios.club/usuarios/src1/Boomerang/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (Opcion 2)
 http://usuarios.club/usuarios/src2/BOOMERANG/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (720p)
 http://usuarios.club/usuarios/src2/BOOMERANG/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xh2Xv/015ef8314e.png" group-title="Entretenimiento",Caballeros del Zodiaco 24/7
 http://usuarios.club/usuarios/src3/CaballerosDelZodiaco/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png" group-title="Colombia",Cali TV
 http://usuarios.club/usuarios/src4/CaliTV/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png" group-title="Nicaragua",Canal 2 Televicentro
-http://usuarios.club/usuarios/src4/Canal2Televicentro/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nB4aq/6b5ee1d45c.png" group-title="Mexico",Canal 22
-http://usuarios.club/usuarios/src4/Canal22/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/rePCK/d7e50582cf.png" group-title="Mexico",Canal 5
-http://usuarios.club/usuarios/src1/Canal5/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas
-http://usuarios.club/usuarios/src4/CanaldelasEstrellas2/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas
-http://usuarios.club/usuarios/src5/CanaldelasEstrellas/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas (Opcion 2)
-http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas (720p)
-http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas Latinoamerica
-http://usuarios.club/usuarios/src4/CanaldelasEstrellas2/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcJl2/2d75fc4a4e.png" group-title="España",Canal+ Accion
-http://usuarios.club/usuarios/src5/MoviAccion/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcOG4/b50561a985.png" group-title="Deportes",Canal+ Toros
-http://usuarios.club/usuarios/src5/Toros/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" group-title="Musica",Cantinazo TV
 http://usuarios.club/usuarios/src4/CantinazoTV/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xh3mA/c21f8c4da2.png" group-title="Entretenimiento",Cantinflas 24/7
 http://usuarios.club/usuarios/src3/Cantinflas/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nB47o/1193f4ab34.png" group-title="Mexico",Capital 21 CDMX
-http://usuarios.club/usuarios/src4/Capital21CDMX/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reNIz/9bf443e55b.png" group-title="Musica",Capital TV
-http://usuarios.club/usuarios/src4/CapitalTV/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png" group-title="Entretenimiento",Caracol
 http://usuarios.club/usuarios/src5/Caracol/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png" group-title="Entretenimiento",Caracol (Opcion 2)
 http://usuarios.club/usuarios/src2/CARACOL_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png" group-title="Entretenimiento",Caracol (720p)
 http://usuarios.club/usuarios/src2/CARACOL_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/ue7ay/a4f4b49d10.png" group-title="Entretenimiento",Caracol Internacional (Opcion 2)
 http://usuarios.club/usuarios/src2/CARACOL_INT/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/ue7ay/a4f4b49d10.png" group-title="Entretenimiento",Caracol Internacional (720p)
 http://usuarios.club/usuarios/src2/CARACOL_INT/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png" group-title="Entretenimiento",Caracol Op. 2
 http://usuarios.club/usuarios/src4/Caracol2/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network
 http://usuarios.club/usuarios/src1/CartoonNetwork/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network (Opcion 2)
 http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network (720p)
 http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nC0HE/3b9c4c7f0a.png" group-title="Costa Rica",CB24 Noticias
-http://usuarios.club/usuarios/src4/CB24Noticias/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdGb/5d2fd767c6.png" group-title="Infantiles",CBeebies
-http://usuarios.club/usuarios/src1/CBeebies/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/qd28n/94dbf1c3c2.png" group-title="Deportes",CDF Premium
 http://usuarios.club/usuarios/src5/CDFPremium/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nu1Z9/cfd308d7b6.png" group-title="Deportes",CDN Sportmax
-http://usuarios.club/usuarios/src5/CDNSportmax/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xTXlK/cf29aae39b.png" group-title="Deportes",CDO
 http://usuarios.club/usuarios/src5/CDO/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/vxksw/b00f44cfc3.png" group-title="Deportes",CDO Premium
 http://usuarios.club/usuarios/src5/CDOPremium/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Entretenimiento",Chapulin Colorado 24/7
 http://usuarios.club/usuarios/src3/ChapulinColorado/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xa4qU/11783de34f.jpg" group-title="Entretenimiento",Chespirito 24/7
 http://usuarios.club/usuarios/src3/Chespirito/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nib8d/ebcc035c90.png" group-title="Colombia",Chilevision
-http://usuarios.club/usuarios/src4/Chilevision/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/pIeaf/23e6946023.png" group-title="Peliculas",Cine Latino (Opcion 2)
 http://usuarios.club/usuarios/src2/CINELATINO/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/pIeaf/23e6946023.png" group-title="Peliculas",Cine Latino (720p)
 http://usuarios.club/usuarios/src2/CINELATINO/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JYV/cb7bb13579.png" group-title="Peliculas",Cinecanal (Opcion 2)
 http://usuarios.club/usuarios/src2/CINECANAL_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JYV/cb7bb13579.png" group-title="Peliculas",Cinecanal (720p)
 http://usuarios.club/usuarios/src2/CINECANAL_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JYV/cb7bb13579.png" group-title="Peliculas",Cinecanal+
 http://usuarios.club/usuarios/src1/CinecanalHD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/mLXzQ/b10e01f157.png" group-title="Peliculas",Cinema Dinamita (Opcion 2)
 http://usuarios.club/usuarios/src2/CINEMA_DINAMITA/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/mLXzQ/b10e01f157.png" group-title="Peliculas",Cinema Dinamita (720p)
 http://usuarios.club/usuarios/src2/CINEMA_DINAMITA/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png" group-title="Peliculas",Cinemax
 http://usuarios.club/usuarios/src1/Cinemax/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png" group-title="Peliculas",Cinemax (Opcion 2)
 http://usuarios.club/usuarios/src2/CINEMAX/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png" group-title="Peliculas",Cinemax (720p)
 http://usuarios.club/usuarios/src2/CINEMAX/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports
 http://usuarios.club/usuarios/src5/ClaroSports/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports (Opcion 2)
 http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports (720p)
 http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias",CNN en Español
 http://usuarios.club/usuarios/src5/CNNenEspanol/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias",CNN en Español (Opcion 2)
 http://usuarios.club/usuarios/src2/CNN_ESPANOL/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias",CNN en Español (720p)
 http://usuarios.club/usuarios/src2/CNN_ESPANOL/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/yfyWG/dec906e5e0.png" group-title="Deportes",CNT Sports
 http://usuarios.club/usuarios/src5/CNTSports/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQTV/a720355f03.png" group-title="Entretenimiento",Comedy Central
 http://usuarios.club/usuarios/src1/ComedyCentralHD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQTV/a720355f03.png" group-title="Entretenimiento",Comedy Central (Opcion 2)
 http://usuarios.club/usuarios/src2/COMEDY_CENTRAL_HD/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQTV/a720355f03.png" group-title="Entretenimiento",Comedy Central (720p)
 http://usuarios.club/usuarios/src2/COMEDY_CENTRAL_HD/demoUwD/OV0/hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/y0QcL/bd8a53a641.png" group-title="Entretenimiento",Coraje el Perro Cobarde 24/7
 http://usuarios.club/usuarios/src3/CorajeCobarde/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFpp/77be8fe6f9.png" group-title="Chile",CTNI
-http://usuarios.club/usuarios/src4/CTNI/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="Peliculas",De Película
 http://usuarios.club/usuarios/src1/DePelicula/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="Peliculas",De Película (Opcion 2)
 http://usuarios.club/usuarios/src2/DEPELICULA/demoUwD/OV0.m3u8
-
 #EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="Peliculas",De Película (720p)
 http://usuarios.club/usuarios/src2/DEPELICULA/demoUwD/OV0/hd.m3u8
 
