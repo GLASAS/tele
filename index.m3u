@@ -112,6 +112,11 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="→ 24/7 2 ←",Naruto Shippuden
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@LatAm" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="otros",One Piece LatAm
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="otros",One Piece Spain
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+
 
 
 
@@ -337,6 +342,26 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 http://45.4.1.201:8000/play/a13e/index.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="→ PARABOLICA ←",Movistar Plus (576p)
 http://45.4.1.201:8000/play/a19y/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="→ PARABOLICA ←",National Geographic (Mexico) (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="→ PARABOLICA ←",National Geographic Latin America (1080p)
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-id="NCIS.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="→ PARABOLICA ←",NCIS (United States) LatAm
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="→ PARABOLICA ←",Nick Jr. Club (United States) LatAm (720p)
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="→ PARABOLICA ←",Nickelodeon Clasico (720p)
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="→ PARABOLICA ←",Nickelodeon Latin America (1080p)
+http://15.204.246.24:8080/NickHD/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="→ PARABOLICA ←",Nickelodeon Teen LatAm (720p)
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 tvg-id="NickelodeonToons.us@LatAm" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="→ PARABOLICA ←",Nickelodeon Toons LatAm (720p)
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="→ PARABOLICA ←",NTN24 (576p)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="→ PARABOLICA ←",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 
 
@@ -349,195 +374,6 @@ http://45.4.1.201:8000/play/a19y/index.m3u8
 #**** OTROS ****
 #*****************************
 
-#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="otros",National Geographic (Mexico) (1080p)
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="otros",National Geographic Latin America (1080p)
-http://15.204.246.24:8080/NatGeoHD/index.m3u8
-#EXTINF:-1 tvg-id="NCIS.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="otros",NCIS (United States) LatAm
-https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="otros",Nick Jr. Club (United States) LatAm (720p)
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="otros",Nickelodeon Clasico (720p)
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="otros",Nickelodeon Latin America (1080p)
-http://15.204.246.24:8080/NickHD/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="otros",Nickelodeon Teen LatAm (720p)
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="NickelodeonToons.us@LatAm" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="otros",Nickelodeon Toons LatAm (720p)
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="otros",Noticiero 90 Minutos (1080p)
-https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="NotisurTV.do@HD" tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="otros",Notisur TV [Not 24/7]
-https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
-#EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="otros",Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish" tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="otros",NowMedia Television Spanish (1080p)
-https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 tvg-id="NPY.py@SD" tvg-logo="https://i.imgur.com/pUEkaiW.png" http-referrer="https://www.npy.com.py/" group-title="otros",NPY (1080p)
-#EXTVLCOPT:http-referrer=https://www.npy.com.py/
-https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="otros",NSTV (1080p)
-https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="otros",NTN24 (576p)
-http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="NTV.cl@SD" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="otros",NTV (Chile) (1080p)
-http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
-#EXTINF:-1 tvg-id="Nublevision.cl@SD" tvg-logo="https://i.imgur.com/nkQyR1X.png" group-title="otros",Nublevision (720p)
-https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
-#EXTINF:-1 tvg-id="NuestraImagenTV.gt@SD" tvg-logo="https://i.imgur.com/sknLXZI.jpeg" group-title="otros",Nuestra Imagen TV
-https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="otros",Nuestra Tele Internacional (720p)
-http://170.238.200.199/nuestra-tele/index.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr@SD" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="otros",Nueva Vida FM (720p)
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-#EXTINF:-1 tvg-id="NuevaVision14.do@HD" tvg-logo="https://imgur.com/0fWQS53.png" group-title="otros",Nueva Vision 14 (1080p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="otros",Nueve TV (720p)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="NuevoTiempo.br@SD" tvg-logo="" group-title="otros",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevoTiempoTV.cl@SD" tvg-logo="https://i.imgur.com/eCPzibM.png" group-title="otros",Nuevo Tiempo TV (1080p)
-http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8
-#EXTINF:-1 tvg-id="NukaTV.ec@SD" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="otros",Nuka TV (720p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8118/index.m3u8
-#EXTINF:-1 tvg-id="Numeros.us@LatAm" tvg-logo="https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png" group-title="otros",Numeros
-https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
-#EXTINF:-1 tvg-id="NZKTelevision.pe@SD" tvg-logo="https://i.imgur.com/IqsB6VR.jpeg" group-title="otros",NZK Television (720p)
-https://eu1.servers10.com:8081/8258/index.m3u8
-#EXTINF:-1 tvg-id="OasisTelevision.ve@SD" tvg-logo="https://i.imgur.com/TEr1U90.png" group-title="otros",Oasis Television (720p) [Not 24/7]
-http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
-#EXTINF:-1 tvg-id="OasisTV.co@SD" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="otros",Oasis TV (Colombia) (720p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="OasisTV.py@SD" tvg-logo="https://i.imgur.com/u9umNKp.jpeg" group-title="otros",Oasis TV (Paraguay) (720p)
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-id="OccidentalTV.py@SD" tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="otros",Occidental TV
-https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:-1 tvg-id="OdiseaTV.cl@SD" tvg-logo="https://i.imgur.com/8SCnoiZ.png" group-title="otros",Odisea TV (720p)
-https://v2.tustreaming.cl/odiseatv/index.m3u8
-#EXTINF:-1 tvg-id="OEPMTV.do@SD" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="otros",OEPM TV (720p)
-https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="OlamMetroTV.ni@SD" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="otros",Olam Metro TV (720p)
-https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
-#EXTINF:-1 tvg-id="OliTV.cl@SD" tvg-logo="https://i.imgur.com/2emMRvf.jpeg" group-title="otros",Oli TV (Chile) (1080p)
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="OlympicChannel.es@SD" tvg-logo="https://i.imgur.com/wPQVVtj.png" group-title="otros",Olympic Channel (1080p) [Geo-blocked]
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-#EXTINF:-1 tvg-id="Onda15TV.es@SD" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="otros",Onda 15 TV (224p)
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="OndaAlgeciras.es@SD" tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="otros",Onda Algeciras (576p)
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-id="OndaCadiz.es@SD" tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="otros",Onda Cadiz (720p)
-https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:-1 tvg-id="ONDADIGITAL.pe@SD" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="otros",ONDA DIGITAL (720p)
-https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:-1 tvg-id="OndaTV.do@SD" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="otros",Onda TV (Dominican Republic) (720p)
-https://cnn.hostlagarto.com/ondatv/index.m3u8
-#EXTINF:-1 tvg-id="OndaTV.pe@SD" tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" group-title="otros",Onda TV (Peru) (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaValenciaTV.es@SD" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="otros",Onda Valencia TV (720p)
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-id="OndambientalTV.co@SD" tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="otros",Ondambiental TV (360p)
-https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD" tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="otros",Ondas Quevedenas TV (720p) [Not 24/7]
-https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
-#EXTINF:-1 tvg-id="OnePiece.us@LatAm" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="otros",One Piece LatAm
-https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="otros",One Piece Spain
-https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-logo="https://i.imgur.com/usrP6T2.png" group-title="otros",Onza TV (720p)
-https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
-#EXTINF:-1 tvg-id="Opinionsur.cl@SD" tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="otros",Opinionsur (720p)
-https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="otros",ORBIT TV (1080p)
-https://edge.essastream.com/orbittv/index.m3u8
-#EXTINF:-1 tvg-id="OrbitaChileTV.cl@HD" tvg-logo="https://i.imgur.com/gbNh79Z.png" group-title="otros",Orbita Chile TV (1080p)
-https://orbitachiletv.org/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="otros",Oromar TV (1080p)
-http://45.224.97.181:9999/Oromar/index.m3u8
-#EXTINF:-1 tvg-id="OromarTVPlus.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="otros",Oromar TV+ (720p)
-https://stream.oromar.tv/hls/camriva/index.m3u8
-#EXTINF:-1 tvg-id="OsornoTV.cl@SD" tvg-logo="https://i.imgur.com/0ELjva6.png" group-title="otros",Osorno TV (720p)
-https://videostream.chileservidores.com:8081/osornotv/index.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="otros",Ovacion TV (720p) [Not 24/7]
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="otros",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-id="OxigenoTV.ve@SD" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="otros",Oxigeno TV (360p) [Not 24/7]
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="OxiTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="otros",OxiTV (720p) [Not 24/7]
-https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-#EXTINF:-1 tvg-id="OzonoTV.pe@SD" tvg-logo="https://i.imgur.com/Wkdibpv.png" group-title="otros",Ozono TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="otros",Pakapaka
-https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
-#EXTINF:-1 tvg-id="PalenqueTV.bo@SD" tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="otros",Palenque TV (576p)
-http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
-#EXTINF:-1 tvg-id="PalmarTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="otros",Palmar TV [Not 24/7]
-https://streamunoapp.com:3255/live/palmartvlive.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="otros",Panamericana TV (1080p)
-http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-#EXTINF:-1 tvg-id="PancTV.ar@SD" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="otros",Panc TV (720p) [Not 24/7]
-https://panel.host-live.com:19360/20004/20004.m3u8
-#EXTINF:-1 tvg-id="PancheTelevision.co@SD" tvg-logo="https://i.imgur.com/BJVlOVA.jpeg" group-title="otros",Panche Television
-https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
-#EXTINF:-1 tvg-id="Panico.mx@SD" tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="otros",Panico (576p)
-http://181.78.8.199:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="otros",Pantalla Clasica EC (512p) [Not 24/7]
-https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/TWnTZ3c.png" group-title="otros",Paraguay TV (1080p)
-https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
-#EXTINF:-1 tvg-id="ParaisoTV.pr@SD" tvg-logo="https://i.imgur.com/wE31GIP.jpg" group-title="otros",Paraiso TV (720p)
-https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="otros",Paravision
-http://45.170.130.224:8000/play/a032/index.m3u8?hls
-#EXTINF:-1 tvg-id="ParlamentodeAndalucia.es@SD" tvg-logo="https://i.imgur.com/J6h5IQS.png" group-title="otros",Parlamento de Andalucia (576p) [Not 24/7]
-http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="otros",Parlamento de Navarra (368p) [Not 24/7]
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-#EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="otros",Parranda Vallenata (720p)
-https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="otros",Pasiones Latin America (1080p)
-http://15.204.246.24:8080/PasionesHD/index.m3u8
-#EXTINF:-1 tvg-id="PatagoniaRadioTV.cl@SD" tvg-logo="https://i.imgur.com/oFuWBZO.png" group-title="otros",Patagonia Radio TV (720p)
-https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="Pauta.cl@SD" tvg-logo="https://i.imgur.com/UAKLJAt.png" group-title="otros",Pauta (1080p)
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="otros",PBO (1080p)
-http://190.93.224.42/PBO/index.m3u8
-#EXTINF:-1 tvg-id="PCTChannel26.us@SD" tvg-logo="https://i.imgur.com/xJSya25.png" group-title="otros",PCT Channel 26 (720p)
-https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PCTChannel27.us@SD" tvg-logo="https://i.imgur.com/b0ufMkd.png" group-title="otros",PCT Channel 27 (720p)
-https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="otros",Peniel K&Y (480p)
-https://s.emisoras.tv:8081/penielkids/index.m3u8
-#EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="otros",Peniel Musical (480p)
-https://s.emisoras.tv:8081/penielmusical/index.m3u8
-#EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt@SD" tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" group-title="otros",Peniel TV Biblia Abierta (480p)
-https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
-#EXTINF:-1 tvg-id="Pequeradio.es@SD" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="otros",Pequeradio (720p) [Not 24/7]
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" group-title="otros",Peques TV (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeraviaVision.do@SD" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="otros",Peravia Vision (480p) [Geo-blocked]
-https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
-#EXTINF:-1 tvg-id="PersianaLatino.fr@SD" tvg-logo="" group-title="otros",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PHXTV.us@SD" tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="otros",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
-#EXTINF:-1 tvg-id="PichilemuTV.cl@SD" tvg-logo="https://i.imgur.com/eaJVCwM.png" group-title="otros",Pichilemu TV (1080p)
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 tvg-id="PindinTV.pa@SD" tvg-logo="https://i.imgur.com/UaQC0l8.jpeg" group-title="otros",Pindin TV
-https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
-#EXTINF:-1 tvg-id="PiuraTV.pe@SD" tvg-logo="https://i.imgur.com/KnJAqbd.png" group-title="otros",PiuraTV (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="PlaneaTV.pe@SD" tvg-logo="https://i.imgur.com/EoLhvBN.png" group-title="otros",Planea TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="Planet1009FM.pa@SD" tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="otros",Planet 100.9 FM (1080p)
-https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaChannel.ec@SD" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="otros",Planeta Channel [Not 24/7]
-https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="otros",Platzi TV (1080p)
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="PlenitudTV.gt@SD" tvg-logo="https://i.imgur.com/BFJ7EGj.png" group-title="otros",Plenitud TV (360p)
 https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="otros",Plim Plim (1080p)
