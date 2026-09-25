@@ -83,9 +83,16 @@ http://23.153.217.158:8080/963106051tv/i6789pxan/360
 #EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS+ (HD) »3«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FÚTBOL COLOMBIA", WIN SPORTS+ (HD) »3«
 http://23.153.217.158:8080/963106051tv/i6789pxan/361
 
-#*****************************
-#**** 24/7 ****
-#***************************** 
+
+
+
+
+                                                             #*****************************
+                                                             #**** 24/7 ****
+                                                             #***************************** 
+
+
+
 #EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="→ 24/7 2 ←",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="→ 24/7 2 ←",Bob Esponja (720p)
@@ -116,6 +123,10 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="otros",One Piece Spain
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="otros",Plim Plim (1080p)
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
+
 
 
 
@@ -374,10 +385,6 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #**** OTROS ****
 #*****************************
 
-#EXTINF:-1 tvg-id="PlenitudTV.gt@SD" tvg-logo="https://i.imgur.com/BFJ7EGj.png" group-title="otros",Plenitud TV (360p)
-https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
-#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="otros",Plim Plim (1080p)
-http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="otros",Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PLUSTelevision.bo@SD" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/255c280c-fd59-466c-bf00-aeb973d78505-profile_banner-480.jpeg" group-title="otros",PLUS Television (720p)
