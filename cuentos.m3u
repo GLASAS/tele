@@ -5,6 +5,12 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ 1. NACIONALES ←",CARACOL (HD) »1«
 http://23.153.217.158:8080/963106051tv/i6789pxan/331
+#EXTINF:-1 tvg-id="cuentos_grimm_s01e28" tvg-name="La Col del Asno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fadhEgeRgzQvqSG11x-gN-xz5i0Q2rF85jAx9UL58fMe3G-f5IlbbIo&s=10" group-title="HNOS GRIMM", La Col del Asno
+https://drive.google.com/uc?export=download&id=1MUNvySS-u2tFvL_-MOtTd1qbrGggyX1N#.mp4
+#EXTINF:-1 tvg-id="cuentos_grimm_s01e41" tvg-name="La Liebre y El Erizo" tvg-logo="https://i.ytimg.com/vi/IJlhU3gQ6Pc/maxresdefault.jpg" group-title="HNOS GRIMM", La Liebre y El Erizo
+https://drive.google.com/uc?export=download&id=1JZmqswjaam_8Xw5O8Jpiyd-ADxIqfLGq#.mp4
+
+
 
 #EXTINF:-1 tvg-id="cuentos_grimm_s01e01" tvg-name="El Ahijado de La Muerte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStrrlhx10mYIxRAH-HeY3KE3kXzT1lCe0OEAJI9j4J9oR1eRcv0x0YxkLp&s=10" group-title="HNOS GRIMM", El Ahijado de La Muerte
 https://drive.google.com/uc?export=download&id=16MLpph7RsvF91pKZ5XjHRZ-EDBAcXpFr#.mp4
@@ -29,7 +35,3 @@ https://drive.google.com/uc?export=download&id=1r-_jOoDzd4eNT-SvO17xrNQ8OGFhAN9v
 https://drive.google.com/uc?export=download&id=1lg3QirZypW2fKDILwjKXowiHfcBRMjqL#.mp4
 #EXTINF:-1 tvg-id="cuentos_grimm_s01e18" tvg-name="La Bella Durmiente" tvg-logo="https://peliculas.lavanguardia.com/imagenes/w500/pKVr9L27BAi3lul1yF7qUY20o7g.jpg" group-title="HNOS GRIMM", La Bella Durmiente
 https://drive.google.com/uc?export=download&id=132JUFXoPe4ergr4vgju3vSyY1F72LPD3#.mp4
-#EXTINF:-1 tvg-id="cuentos_grimm_s01e28" tvg-name="La Col del Asno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fadhEgeRgzQvqSG11x-gN-xz5i0Q2rF85jAx9UL58fMe3G-f5IlbbIo&s=10" group-title="HNOS GRIMM", La Col del Asno
-https://drive.google.com/uc?export=download&id=1MUNvySS-u2tFvL_-MOtTd1qbrGggyX1N#.mp4
-#EXTINF:-1 tvg-id="cuentos_grimm_s01e41" tvg-name="La Liebre y El Erizo" tvg-logo="https://i.ytimg.com/vi/IJlhU3gQ6Pc/maxresdefault.jpg" group-title="HNOS GRIMM", La Liebre y El Erizo
-https://drive.google.com/uc?export=download&id=1JZmqswjaam_8Xw5O8Jpiyd-ADxIqfLGq#.mp4
