@@ -2,10 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-name="41 La Liebre y El Erizo - Cuentos De Los Hermanos Grimm" group-title="Cuentos De Los Hermanos Grimm",41 La Liebre y El Erizo - Cuentos De Los Hermanos Grimm
-https://drive.google.com/uc?export=download&id=1JZmqswjaam_8Xw5O8Jpiyd-ADxIqfLGq#.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cuentos De Los Hermanos Grimm S01E28" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="Series - Cuentos De Los Hermanos Grimm" tvg-type="series" series-name="Cuentos De Los Hermanos Grimm" season-number="1" episode-number="28",Cuentos De Los Hermanos Grimm - S01E28 - La Col del Asno
-https://drive.google.com/uc?export=download&id=1MUNvySS-u2tFvL_-MOtTd1qbrGggyX1N#.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cuentos De Los Hermanos Grimm S01E41" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="Series - Cuentos De Los Hermanos Grimm" tvg-type="series" series-name="Cuentos De Los Hermanos Grimm" season-number="1" episode-number="41",Cuentos De Los Hermanos Grimm - S01E41 - La Liebre y El Erizo
-https://drive.google.com/uc?export=download&id=1JZmqswjaam_8Xw5O8Jpiyd-ADxIqfLGq#.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ 1. NACIONALES ←",CARACOL (HD) »1«
+http://23.153.217.158:8080/963106051tv/i6789pxan/331
 
+#EXTINF:-1 tvg-id="cuentos_grimm_s01e28" tvg-name="Cuentos De Los Hermanos Grimm" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="SERIES" tvg-type="series" series-id="cuentos_grimm" series-name="Cuentos De Los Hermanos Grimm" season-number="1" episode-number="28",Cuentos De Los Hermanos Grimm S01 E28 - La Col del Asno
+https://drive.google.com/uc?export=download&id=1MUNvySS-u2tFvL_-MOtTd1qbrGggyX1N#.mp4
+
+#EXTINF:-1 tvg-id="cuentos_grimm_s01e41" tvg-name="Cuentos De Los Hermanos Grimm" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="SERIES" tvg-type="series" series-id="cuentos_grimm" series-name="Cuentos De Los Hermanos Grimm" season-number="1" episode-number="41",Cuentos De Los Hermanos Grimm S01 E41 - La Liebre y El Erizo
+https://drive.google.com/uc?export=download&id=1JZmqswjaam_8Xw5O8Jpiyd-ADxIqfLGq#.mp4
