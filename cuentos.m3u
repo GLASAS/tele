@@ -3,8 +3,7 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ 1. NACIONALES ←",CARACOL (HD) »1«
-http://23.153.217.158:8080/963106051tv/i6789pxan/331
+
 #EXTINF:-1 tvg-id="cuentos_grimm_s01e28" tvg-name="La Col del Asno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fadhEgeRgzQvqSG11x-gN-xz5i0Q2rF85jAx9UL58fMe3G-f5IlbbIo&s=10" group-title="HNOS GRIMM", La Col del Asno
 https://drive.google.com/uc?export=download&id=1MUNvySS-u2tFvL_-MOtTd1qbrGggyX1N#.mp4
 #EXTINF:-1 tvg-id="cuentos_grimm_s01e41" tvg-name="La Liebre y El Erizo" tvg-logo="https://i.ytimg.com/vi/IJlhU3gQ6Pc/maxresdefault.jpg" group-title="HNOS GRIMM", La Liebre y El Erizo
