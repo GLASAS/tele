@@ -2735,6 +2735,39 @@ http://181.118.153.15:8000/play/op88/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 1. PARABOLICA ←", WIN SPORTS+ HD
 http://190.60.57.58:8000/play/a0uk/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »1«
+http://23.153.217.158:8080/963106051tv/i6789pxan/362
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »2«
+http://23.153.217.158:8080/963106051tv/i6789pxan/363
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »3«
+http://23.153.217.158:8080/963106051tv/i6789pxan/364
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »4«
+http://23.153.217.158:8080/963106051tv/i6789pxan/365
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »5«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »5«
+http://23.153.217.158:8080/963106051tv/i6789pxan/366
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »6«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »6«
+http://23.153.217.158:8080/963106051tv/i6789pxan/367
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »7«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »7«
+http://23.153.217.158:8080/963106051tv/i6789pxan/368
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS (HD) »8«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS (HD) »8«
+http://23.153.217.158:8080/963106051tv/i6789pxan/369
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS+ (HD) »1«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS+ (HD) »1«
+http://23.153.217.158:8080/963106051tv/i6789pxan/359
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS+ (HD) »2«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS+ (HD) »2«
+http://23.153.217.158:8080/963106051tv/i6789pxan/360
+
+#EXTINF:-1 tvg-id="" tvg-name=" WIN SPORTS+ (HD) »3«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ 1. PARABOLICA ←", WIN SPORTS+ (HD) »3«
+http://23.153.217.158:8080/963106051tv/i6789pxan/361
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ 1. PARABOLICA ←", ZONA LATINA
 http://190.60.57.58:8000/play/a02y/index.m3u8
 
