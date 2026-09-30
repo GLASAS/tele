@@ -88,4 +88,139 @@ http://myultratv.com:8080/movie/979468289tv/frv5z922/285470.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coyote vs. Acme (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg" group-title="→ VOD CAM 2026 ←",Coyote vs. Acme (2026) 
 http://myultratv.com:8080/movie/987906457tv/h9t1a6/285470.mp4
 
+#EXTINF:-1 group-title="-",A&E
+http://191.97.55.72:8000/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="-",AMERICA 
+http://191.97.55.72:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="-",AUTENTICA
+http://191.97.55.72:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="-",AXN
+http://191.97.55.72:8000/play/a004/index.m3u8
+
+#EXTINF:-1 group-title="-",AZCINEMA
+http://191.97.55.72:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="-",AZCORAZON
+http://191.97.55.72:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="-",AZINTERNACIONAL
+http://191.97.55.72:8000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="-",AZTECACLIC
+http://191.97.55.72:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title="-",BETHEL
+http://191.97.55.72:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="-",CINE LATINO
+http://191.97.55.72:8000/play/a0010/index.m3u8
+
+#EXTINF:-1 group-title="-",CLASSIC ++
+http://191.97.55.72:8000/play/a0011/index.m3u8
+
+#EXTINF:-1 group-title="-",CM MUSIC
+http://191.97.55.72:8000/play/a0012/index.m3u8
+
+#EXTINF:-1 group-title="-",COMEDY
+http://191.97.55.72:8000/play/a0013/index.m3u8
+
+#EXTINF:-1 group-title="-",ENLACE
+http://191.97.55.72:8000/play/a0014/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN
+http://191.97.55.72:8000/play/a0015/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN2
+http://191.97.55.72:8000/play/a0016/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN3
+http://191.97.55.72:8000/play/a0017/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN4
+http://191.97.55.72:8000/play/a0018/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN5
+http://191.97.55.72:8000/play/a0019/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN6
+http://191.97.55.72:8000/play/a0020/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN7
+http://191.97.55.72:8000/play/a0021/index.m3u8
+
+#EXTINF:-1 group-title="-",FX
+http://191.97.55.72:8000/play/a0022/index.m3u8
+
+#EXTINF:-1 group-title="-",HOGAR TV
+http://191.97.55.72:8000/play/a0023/index.m3u8
+
+#EXTINF:-1 group-title="-",KARIBENA
+http://191.97.55.72:8000/play/a0024/index.m3u8
+
+#EXTINF:-1 group-title="-",L1
+http://191.97.55.72:8000/play/a0025/index.m3u8
+
+#EXTINF:-1 group-title="-",L1 MAX
+http://191.97.55.72:8000/play/a0026/index.m3u8
+
+#EXTINF:-1 group-title="-",MTV
+http://191.97.55.72:8000/play/a0027/index.m3u8
+
+#EXTINF:-1 group-title="-",MULTICINEMA
+http://191.97.55.72:8000/play/a0028/index.m3u8
+
+#EXTINF:-1 group-title="-",MULTIPREMIER
+http://191.97.55.72:8000/play/a0029/index.m3u8
+
+#EXTINF:-1 group-title="-",NATIVA
+http://191.97.55.72:8000/play/a0030/index.m3u8
+
+#EXTINF:-1 group-title="-",NICK JUNIOR
+http://191.97.55.72:8000/play/a0031/index.m3u8
+
+#EXTINF:-1 group-title="-",PASIONES
+http://191.97.55.72:8000/play/a0032/index.m3u8
+
+#EXTINF:-1 group-title="-",PBO
+http://191.97.55.72:8000/play/a0033/index.m3u8
+
+#EXTINF:-1 group-title="-",RT
+http://191.97.55.72:8000/play/a0034/index.m3u8
+
+#EXTINF:-1 group-title="-",RUMBA TV
+http://191.97.55.72:8000/play/a0035/index.m3u8
+
+#EXTINF:-1 group-title="-",SONY CHANNEL
+http://191.97.55.72:8000/play/a0036/index.m3u8
+
+#EXTINF:-1 group-title="-",SONY MOVIE
+http://191.97.55.72:8000/play/a0037/index.m3u8
+
+#EXTINF:-1 group-title="-",STUDIO UNIVERSAL
+http://191.97.55.72:8000/play/a0038/index.m3u8
+
+#EXTINF:-1 group-title="-",TELEMUNDO
+http://191.97.55.72:8000/play/a0039/index.m3u8
+
+#EXTINF:-1 group-title="-",TELENOSTALGIA
+http://191.97.55.72:8000/play/a0040/index.m3u8
+
+#EXTINF:-1 group-title="-",TELEVISION TARAPOTO
+http://191.97.55.72:8000/play/a0041/index.m3u8
+
+#EXTINF:-1 group-title="-",TV AGRO
+http://191.97.55.72:8000/play/a0042/index.m3u8
+
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL
+http://191.97.55.72:8000/play/a0043/index.m3u8
+
+#EXTINF:-1 group-title="-",USA
+http://191.97.55.72:8000/play/a0044/index.m3u8
+
+#EXTINF:-1 group-title="-",VIA TELEVISION
+http://191.97.55.72:8000/play/a0045/index.m3u8
+
 
