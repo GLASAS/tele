@@ -3,15 +3,15 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:-1 tvg-id="-" group-title="-",CINE HEROES | 24/7
+#EXTINF:-1 tvg-id="" group-title="",CINE HEROES | 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/imcu/playlist.m3u8
-#EXTINF:-1 tvg-id="-" group-title="-",CUENTOS DE LA CRIPTA SERIE ANIMADA | 24/7
+#EXTINF:-1 tvg-id="" group-title="",CUENTOS DE LA CRIPTA SERIE ANIMADA | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
-#EXTINF:-1 tvg-id="-" group-title="-",EL CHAVO DEL OCHO | 24/7
+#EXTINF:-1 tvg-id="" group-title="",EL CHAVO DEL OCHO | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 tvg-id="-" group-title="-",EL HOMBRE ARAÑA | 24/7
+#EXTINF:-1 tvg-id="" group-title="",EL HOMBRE ARAÑA | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
-#EXTINF:-1 tvg-id="-" group-title="-",X MEN | 24/7
+#EXTINF:-1 tvg-id="" group-title="",X MEN | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chico Libre 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcli1Kg5inClBcMRQsyB_ip7rV-nujFwK6IQJknYFJQ&s=10" group-title="PELICULAS", Chico Libre 1080p
 https://drive.usercontent.google.com/download?id=1C_FJl2ZBzBTImbgKeiB5smVk5WoWCfqN&export=download&confirm=t#.mp4
