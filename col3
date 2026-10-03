@@ -1,4 +1,7 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:-1 tvg-id="-" group-title="-",CINE HEROES | 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/imcu/playlist.m3u8
