@@ -265,409 +265,285 @@ http://181.78.9.204:8000/play/a03r/index.m3u8
 http://181.78.9.204:8000/play/a04i/index.m3u8
 #EXTINF:-1,Zoom
 http://181.78.9.204:8000/play/a03f/index.m3u8
-#EXTINF:-1 xui-id="5179037" tvg-id="" tvg-name="#22 Dragon Ball" tvg-logo="
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VpFT-OTA_x97NBgmTvMRtNkvgzHGduy_qQ&s" group-title="⭐ |  24/7 VIP",#22 Dragon Ball	
+
+
+#EXTINF:-1 xui-id="5179037" tvg-id="" tvg-name="#22 Dragon Ball" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VpFT-OTA_x97NBgmTvMRtNkvgzHGduy_qQ&s" group-title="⭐ |  24/7 VIP",#22 Dragon Ball
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mRI2GIDP5AqxWzDAXLtUQ4/m3u8
-#EXTINF:-1 xui-id="5181386" tvg-id="" tvg-name="24/7 | La Casa del Dragon" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID285513.png" group-title="⭐ | 24/7 SERIES | 10 SEG",24/7 | La Casa del Dragon	
+#EXTINF:-1 xui-id="5181386" tvg-id="" tvg-name="24/7 | La Casa del Dragon" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID285513.png" group-title="⭐ | 24/7 SERIES | 10 SEG",24/7 | La Casa del Dragon
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9kxv0JiuVK7Hu7SV1L0pSY4/m3u8
-#EXTINF:-1 xui-id="5181436" tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556105.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball GT	
+#EXTINF:-1 xui-id="5181436" tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556105.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball GT
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9ml9y4hxueQ_kpdMLFmnEuo/m3u8
-#EXTINF:-1 xui-id="5181437" tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556014.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Super	
+#EXTINF:-1 xui-id="5181437" tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556014.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Super
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9n7a98SS4-VdLkqkGaRye5Y/m3u8
-#EXTINF:-1 xui-id="5181438" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga de los Androides" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID286850.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z Saga de los Androides	
+#EXTINF:-1 xui-id="5181438" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga de los Androides" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID286850.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z Saga de los Androides
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mCojImpDQ5yn3yiaT95qW8/m3u8
-#EXTINF:-1 xui-id="5181439" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Freezer" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556104.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z Saga Freezer	
+#EXTINF:-1 xui-id="5181439" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Freezer" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556104.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z Saga Freezer
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mYOvk3Ax1m5PGFkwsHLUDk/m3u8
-#EXTINF:-1 xui-id="5181440" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Majin Buu" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556118.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z Saga Majin Buu	
+#EXTINF:-1 xui-id="5181440" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Majin Buu" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556118.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z Saga Majin Buu
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9s7iLK4oaZntl04n12oqeC4/m3u8
-#EXTINF:-1 xui-id="5181441" tvg-id="" tvg-name="24/7 | Dragon Ball Z | Saga de Cell" tvg-logo="
-http://38.101.149.51/LEGENDS/salida_imagenes_2/ID286851.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z | Saga de Cell	
+#EXTINF:-1 xui-id="5181441" tvg-id="" tvg-name="24/7 | Dragon Ball Z | Saga de Cell" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID286851.png" group-title="⭐ | 24/7 CARICATURAS | 10 SEG",24/7 | Dragon Ball Z | Saga de Cell
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9gqtSfBo7BE27xuxbtr3224/m3u8
-#EXTINF:-1 xui-id="5329759" tvg-id="" tvg-name="Dragon_Ball_Z_Kai" tvg-logo="
-http://codigos.asbstr.org/imgv1/24-7_vip.png" group-title="⭐ |  24/7 VIP",Dragon_Ball_Z_Kai	
+#EXTINF:-1 xui-id="5329759" tvg-id="" tvg-name="Dragon_Ball_Z_Kai" tvg-logo="http://codigos.asbstr.org/imgv1/24-7_vip.png" group-title="⭐ |  24/7 VIP",Dragon_Ball_Z_Kai
 http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9j8wMO-CeB2IYzJ3qHOt6Wg/m3u8
-#EXTINF:-1 xui-id="4752729" tvg-name="Dragon Ball Z: El ataque del dragón (1995)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4dmzS3Y9AlI7AKF14xIzAI4GHa.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El ataque del dragón (1995)	
+#EXTINF:-1 xui-id="4752729" tvg-name="Dragon Ball Z: El ataque del dragón (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4dmzS3Y9AlI7AKF14xIzAI4GHa.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El ataque del dragón (1995)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNYvP_wTB_O6lCqiue36C9hHhj9iZFUA08BE29KSMw8N#.mkv
-#EXTINF:-1 xui-id="4752719" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/jazByuCSWAZ1H1DRFtxiBKmbzJ0.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: ¡Fusión! (1995)	
+#EXTINF:-1 xui-id="4752719" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jazByuCSWAZ1H1DRFtxiBKmbzJ0.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: ¡Fusión! (1995)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGs-tunI1MLUWcsilglsHifRiBfu7-qFP0uR9e_aI2nH#.mkv
-#EXTINF:-1 xui-id="4752709" tvg-name="Dragon Ball Z: Episodio de Bardock (2011)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Egyv93SPuCGs9Pdn8u1yfJoQxP.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Episodio de Bardock (2011)	
+#EXTINF:-1 xui-id="4752709" tvg-name="Dragon Ball Z: Episodio de Bardock (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Egyv93SPuCGs9Pdn8u1yfJoQxP.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Episodio de Bardock (2011)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBMPwEguCUdNQr7q_JqO_Yt0VSKbbf6Pi7ycgOM_oncNQ#.mkv
-#EXTINF:-1 xui-id="4752710" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/hisk55cLc4riBfJRbauwooisTK8.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El combate definitivo (1994)	
+#EXTINF:-1 xui-id="4752710" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hisk55cLc4riBfJRbauwooisTK8.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El combate definitivo (1994)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBN5zr8_tmlui1Ww1_Vjq_OqVB6css4a2DBdNnzDMDi-2#.mkv
-#EXTINF:-1 xui-id="4752705" tvg-name="The World of Dragon Ball Z (2000)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J1e8Uslw8MAE7mIVFh6TU9mPt8.jpg" group-title="⭐️ ≣ DRAGON BALL",The World of Dragon Ball Z (2000)	
+#EXTINF:-1 xui-id="4752705" tvg-name="The World of Dragon Ball Z (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J1e8Uslw8MAE7mIVFh6TU9mPt8.jpg" group-title="⭐️ ≣ DRAGON BALL",The World of Dragon Ball Z (2000)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGB5Lthx_eewe26YeftnPD6IJWIFvBe6rqS77Bt1R3CO#.mkv
-#EXTINF:-1 xui-id="4752706" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JilEC1SON8tWIRHcdJzf4uVBpX.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="4752706" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JilEC1SON8tWIRHcdJzf4uVBpX.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBINRXkOIPEmM0_M1yxvGUgGfhGFgZ4jo9xym4n8rA-pG#.mkv
-#EXTINF:-1 xui-id="4752723" tvg-name="Dragon Ball Z: Goku es un Super Saiyajin (1991)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCySGAWNMk0BETBGAK3xNOKTkX5.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Goku es un Super Saiyajin (1991)	
+#EXTINF:-1 xui-id="4752723" tvg-name="Dragon Ball Z: Goku es un Super Saiyajin (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCySGAWNMk0BETBGAK3xNOKTkX5.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Goku es un Super Saiyajin (1991)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBLIKiqiDtSKiompPiAIruNurydcGzKgZMiyA2AEbHTA#.mkv
-#EXTINF:-1 xui-id="4752722" tvg-name="Dragon Ball Z: La resurrección de F (2015)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/hasMQTJXgv20EyNUDcNKMhQW6gq.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La resurrección de F (2015)	
+#EXTINF:-1 xui-id="4752722" tvg-name="Dragon Ball Z: La resurrección de F (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hasMQTJXgv20EyNUDcNKMhQW6gq.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La resurrección de F (2015)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGH1nGAmel6_2GjSZsdnXC6iJx9VMeIO3VbZZ4vnCaAI#.mp4
-#EXTINF:-1 xui-id="4752716" tvg-name="Dragon Ball: El camino hacia el más fuerte (1996)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball: El camino hacia el más fuerte (1996)	
+#EXTINF:-1 xui-id="4752716" tvg-name="Dragon Ball: El camino hacia el más fuerte (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball: El camino hacia el más fuerte (1996)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBLYWX0kvTfnAsDoEBrs06C50Ft_fib-39-v9mGdyRZtD#.mkv
-#EXTINF:-1 xui-id="4752726" tvg-name="Dragon Ball Z: Los Guerreros más Poderosos (1992)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZWXQjDLL6Fxqygbtq8LZaK8h1O.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Los Guerreros más Poderosos (1992)	
+#EXTINF:-1 xui-id="4752726" tvg-name="Dragon Ball Z: Los Guerreros más Poderosos (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZWXQjDLL6Fxqygbtq8LZaK8h1O.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Los Guerreros más Poderosos (1992)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNiu4plT9M6INNr5mx6wOUVVTHCbr4rALbGHDc-Zo2ts#.mkv
-#EXTINF:-1 xui-id="4752731" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/jazByuCSWAZ1H1DRFtxiBKmbzJ0.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: ¡Fusión! (1995)	
+#EXTINF:-1 xui-id="4752731" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jazByuCSWAZ1H1DRFtxiBKmbzJ0.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: ¡Fusión! (1995)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJ69UHM-JjiwcDgtgNyP7chDp7RlW32qU5eTnko5XqAo#.mkv
-#EXTINF:-1 xui-id="4752725" tvg-name="Dragon Ball Z: La Galaxia Corre Peligro (1993)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gNEyR5CofjsasyemTCCE6EFdKd.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La Galaxia Corre Peligro (1993)	
+#EXTINF:-1 xui-id="4752725" tvg-name="Dragon Ball Z: La Galaxia Corre Peligro (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gNEyR5CofjsasyemTCCE6EFdKd.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La Galaxia Corre Peligro (1993)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBPWDVnu1VPTdE6Ig3qEWYZDn1sNbmXZOk5DcFK2Bpwae#.mkv
-#EXTINF:-1 xui-id="4752714" tvg-name="Dragon Ball Z: El Poder Invencible (1993)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohLUrudLh5WggTa3f7eb4WyJhMo.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El Poder Invencible (1993)	
+#EXTINF:-1 xui-id="4752714" tvg-name="Dragon Ball Z: El Poder Invencible (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohLUrudLh5WggTa3f7eb4WyJhMo.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El Poder Invencible (1993)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBMFV81t1LlDaHFaYHrAPRcnxC1fu8GWm2NJrlY8lAhye#.mkv
-#EXTINF:-1 xui-id="4752713" tvg-name="Dragon Ball Z: Un futuro diferente Gohan y Trunks (1993)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmvQymtrEnjuEppy5JIjzlrYcmj.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Un futuro diferente Gohan y Trunks (1993)	
+#EXTINF:-1 xui-id="4752713" tvg-name="Dragon Ball Z: Un futuro diferente Gohan y Trunks (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmvQymtrEnjuEppy5JIjzlrYcmj.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Un futuro diferente Gohan y Trunks (1993)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOC9R_2w3G8JqZiuu6JwmtS1xshsq5Xpu4vHwwC9_0pJ#.mkv
-#EXTINF:-1 xui-id="4752720" tvg-name="Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)	
+#EXTINF:-1 xui-id="4752712" tvg-name="Bardock El Padre de Goku (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnFEyVcDlSshzl65hEdWoYXtnm3.jpg" group-title="⭐️ ≣ DRAGON BALL",Bardock El Padre de Goku (1990)
+http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBK9aa_nJyXWR8dt-nd3CaLj-bg1Wv_Lw5uH_BPfOAiCW#.mkv
+#EXTINF:-1 xui-id="4752720" tvg-name="Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBCqKlX8Kqe6nlRk3Zuf3gxo0XeLX8EhcMmnow6uv7icL#.mkv
-#EXTINF:-1 xui-id="4752708" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="4752708" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOWT-RnvDpjDem7I2yGLzh9_GjTlpgR3KQTSVTundczl#.mkv
-#EXTINF:-1 xui-id="4752727" tvg-name="Dragon Ball GT: 100 años después (1997)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTPrYo1GspMcF7unmGdXg0DvJwk.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball GT: 100 años después (1997)	
+#EXTINF:-1 xui-id="4752727" tvg-name="Dragon Ball GT: 100 años después (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTPrYo1GspMcF7unmGdXg0DvJwk.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball GT: 100 años después (1997)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBAcTlaw5IDZD-M8Ltw0Xej1UuqfLI-9rgSuR1GSwZ3Gw#.mkv
-#EXTINF:-1 xui-id="4752718" tvg-name="Toriko & One Piece & Dragon Ball Z (2013)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/1azUShBxKqHUUJf61BIpnJTtAWO.jpg" group-title="⭐️ ≣ DRAGON BALL",Toriko & One Piece & Dragon Ball Z (2013)	
+#EXTINF:-1 xui-id="4752718" tvg-name="Toriko & One Piece & Dragon Ball Z (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1azUShBxKqHUUJf61BIpnJTtAWO.jpg" group-title="⭐️ ≣ DRAGON BALL",Toriko & One Piece & Dragon Ball Z (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBI6Cqg0UDwaNAmfM1EEdXU5dZuPEk7zKTx8QZ-DDcWqZ#.mkv
-#EXTINF:-1 xui-id="4752728" tvg-name="Dragon Ball Z: La super batalla (1990)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGadvCa5w8X6zAWzdZlVQYNd6QR.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La super batalla (1990)	
+#EXTINF:-1 xui-id="4752728" tvg-name="Dragon Ball Z: La super batalla (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGadvCa5w8X6zAWzdZlVQYNd6QR.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: La super batalla (1990)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJuq-Kh9JjA7XVoAgvMAOH7LF2FPYKV_6-GvvbqvaXPR#.mkv
-#EXTINF:-1 xui-id="4752702" tvg-name="Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAwrVa1RA4RGnGvbx34KhlWdKIw.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)	
+#EXTINF:-1 xui-id="4752702" tvg-name="Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAwrVa1RA4RGnGvbx34KhlWdKIw.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBv0qLhVpFkyUwCjYXWwdvnuUH1mCdfrUjLccCgdgH3v#.mkv
-#EXTINF:-1 xui-id="4752715" tvg-name="Dragon Ball Z: Vuelven Son Goku y sus amigos (2008)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXHBTIUYFP5un0ySiMsSHU3alWD.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Vuelven Son Goku y sus amigos (2008)	
+#EXTINF:-1 xui-id="4752715" tvg-name="Dragon Ball Z: Vuelven Son Goku y sus amigos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXHBTIUYFP5un0ySiMsSHU3alWD.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Vuelven Son Goku y sus amigos (2008)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJYbm6IiOZAKTIZgxhJ95-GWVHvgS03A8PQHDtiaoOhJ#.mkv
-#EXTINF:-1 xui-id="4752711" tvg-name="Dragon Ball: La leyenda del dragón Shenlong (1986)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball: La leyenda del dragón Shenlong (1986)	
+#EXTINF:-1 xui-id="4752711" tvg-name="Dragon Ball: La leyenda del dragón Shenlong (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball: La leyenda del dragón Shenlong (1986)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBCUBCiaLn15Ya3llox-vJxSj5qIfrqVPWtNkdoxGBpca#.mkv
-#EXTINF:-1 xui-id="4752704" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Super: Super Hero (2022)	
+#EXTINF:-1 xui-id="4752704" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Super: Super Hero (2022)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBAsoTJ9rR0ogFNM5W0K8qP_LqoLG_v7lXj14MyZT9pDs#.mkv
-#EXTINF:-1 xui-id="4752733" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIiqgyZLObr3Z5LIfGZsk2ouDWl.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Los tres grandes Super Saiyans (1992)	
+#EXTINF:-1 xui-id="4752733" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIiqgyZLObr3Z5LIfGZsk2ouDWl.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Los tres grandes Super Saiyans (1992)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBMftY51dFCyYlDxON5_ddWG1tawXZpyAn7WyWC5eBIFv#.mkv
-#EXTINF:-1 xui-id="4752721" tvg-name="Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAwrVa1RA4RGnGvbx34KhlWdKIw.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)	
+#EXTINF:-1 xui-id="4752721" tvg-name="Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAwrVa1RA4RGnGvbx34KhlWdKIw.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDLms4l5gOUs9wxyB1YUaM9IPo4wj0iT6eW8AXV61_WL#.mkv
-#EXTINF:-1 xui-id="4752732" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Los mejores rivales (1991)	
+#EXTINF:-1 xui-id="4752732" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: Los mejores rivales (1991)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFvReAhARzNIDCobkUaQh9cz4TRHxNSADgoohOll9CXu#.mkv
-#EXTINF:-1 xui-id="4752707" tvg-name="Dragon Ball: La bella durmiente en el castillo del mal (1987)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L6mX0DyItEsG39uYHWjztEfVOn.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball: La bella durmiente en el castillo del mal (1987)	
+#EXTINF:-1 xui-id="4752707" tvg-name="Dragon Ball: La bella durmiente en el castillo del mal (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L6mX0DyItEsG39uYHWjztEfVOn.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball: La bella durmiente en el castillo del mal (1987)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBPR_zRJdDHwwaGi0Y21jOm473t34t-uTYF6OMy0lqaPp#.mkv
-#EXTINF:-1 xui-id="4752717" tvg-name="Dragon Ball Z: El regreso de Broly (1994)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/daKUEF0jEFJv0CXes48LpaDg3o8.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El regreso de Broly (1994)	
+#EXTINF:-1 xui-id="4752717" tvg-name="Dragon Ball Z: El regreso de Broly (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daKUEF0jEFJv0CXes48LpaDg3o8.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El regreso de Broly (1994)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBEBR5_CdL-wKBm2-65kUBtni8A9mRoa1kfXP-bAWBmrN#.mkv
-#EXTINF:-1 xui-id="4752730" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ipNfb1BIs6xGORZETfL2rYUy4w.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El más fuerte del mundo (1990)	
+#EXTINF:-1 xui-id="4752724" tvg-name="Cuerpo de bomberos de Goku (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0QRU1UpJCvoConl1CSlz1RF54s.jpg" group-title="⭐️ ≣ DRAGON BALL",Cuerpo de bomberos de Goku (1988)
+http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHubMbWgJVldFdp-iQN6Ws6vIywkVZWs_0WDgd2xKL0h#.mkv
+#EXTINF:-1 xui-id="4752730" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ipNfb1BIs6xGORZETfL2rYUy4w.jpg" group-title="⭐️ ≣ DRAGON BALL",Dragon Ball Z: El más fuerte del mundo (1990)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBC-abGzj5fjMYQb1e_IVPGM7xMV_-tCOILdQZ-SOo_3b#.mkv
-#EXTINF:-1 xui-id="4798052" tvg-name="How to Train Your Dragon: Legends (2010)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kEVqHV5egVoSl8OhDMImJozSaj.jpg" group-title="⭐️ ≣ ANIMADAS | VIP",How to Train Your Dragon: Legends (2010)	
+#EXTINF:-1 xui-id="4752703" tvg-name="Seguridad vial de Goku (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM7Rn5oziVlPEhQ7eyCHcYEy5vu.jpg" group-title="⭐️ ≣ DRAGON BALL",Seguridad vial de Goku (1988)
+http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHIuBWxgHmgjlvKK2_qdqz6XruXSOAFx1IXppE7hJnsY#.mkv
+#EXTINF:-1 xui-id="4798052" tvg-name="How to Train Your Dragon: Legends (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kEVqHV5egVoSl8OhDMImJozSaj.jpg" group-title="⭐️ ≣ ANIMADAS | VIP",How to Train Your Dragon: Legends (2010)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBO7onLpO5Zc9Ou7TLGKdVuCB8-fJKbrboUkaayJETiGu#.mp4
-#EXTINF:-1 xui-id="4801044" tvg-name="Dragones del aire [Acción, Drama] (2024)" tvg-logo="
-https://i.postimg.cc/7651LjvM/photo-5172613317590190930-y.jpg" group-title="⭐️ ≣ NETFLIX VIP",Dragones del aire [Acción, Drama] (2024)	
+#EXTINF:-1 xui-id="4801044" tvg-name="Dragones del aire [Acción, Drama] (2024)" tvg-logo="https://i.postimg.cc/7651LjvM/photo-5172613317590190930-y.jpg" group-title="⭐️ ≣ NETFLIX VIP",Dragones del aire [Acción, Drama] (2024)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHCGw2ZQn89n2oYr3cp9ru_6Iz_xbDB0Skm591bbcuNx#.mkv
-#EXTINF:-1 xui-id="4891639" tvg-name="Guardiana de dragones (Dragonkeeper) (2024)" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgBHNpiLZMPzFHyTJruQQ3IT7Lp.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Guardiana de dragones (Dragonkeeper) (2024)	
+#EXTINF:-1 xui-id="4891639" tvg-name="Guardiana de dragones (Dragonkeeper) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgBHNpiLZMPzFHyTJruQQ3IT7Lp.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Guardiana de dragones (Dragonkeeper) (2024)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNk5f1Mc_-uFbZu9hQDjSkjVSnPJ0J6A69xkdKirf1uQ#.mkv
-#EXTINF:-1 xui-id="4891432" tvg-name="Taky Kimura: The Heart of the Dragon" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdQWE5gjut4Omw9NTIDfZYqP0k5.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Taky Kimura: The Heart of the Dragon	
+#EXTINF:-1 xui-id="4894249" tvg-name="Pelham 1, 2, 3 (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dTfT2aDRQyBHzxjLdFkLWuvGdh.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Pelham 1, 2, 3 (1974)
+http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBIv0iZBg92xngYJzj08o5oImEH-GbUW45EGLIQcBl3e2#.mkv
+#EXTINF:-1 xui-id="4891432" tvg-name="Taky Kimura: The Heart of the Dragon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdQWE5gjut4Omw9NTIDfZYqP0k5.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Taky Kimura: The Heart of the Dragon
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFJppABJq2g2iVf7IufFC2H-na1oPnCXEaCPRGMSreQP#.mkv
-#EXTINF:-1 xui-id="4891417" tvg-name="Dragon heart 2" tvg-logo="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU8hDly4mgFYhpg2gZdJQ7D5CoI.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Dragon heart 2	
+#EXTINF:-1 xui-id="4891417" tvg-name="Dragon heart 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU8hDly4mgFYhpg2gZdJQ7D5CoI.jpg" group-title="⭐️ || COLECCIONES | PREMIUM",Dragon heart 2
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHYkn1pnDRySnK-UGGVXCWga-7822H51RwdQduYlzVpw#.mkv
-#EXTINF:-1 xui-id="5188276" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188276" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBL_659aGutmyzcrskBM9quaSd2XIHLLsEVSwJ5O3cdHG#.mkv
-#EXTINF:-1 xui-id="5188277" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188277" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFIdbH8vGhobm7OnvJz05mc3pMiUZnh1X1E2XGSeo81M#.mkv
-#EXTINF:-1 xui-id="5188278" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188278" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBJcXnrNCZvRspYD-87jvLlcWkwhD7AOa7aycmkpwYyZ#.mp4
-#EXTINF:-1 xui-id="5188279" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188279" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDYBR4PiymB7V6kdibK7Slv8TEY5U8jrNA90bt3YSGo1#.mp4
-#EXTINF:-1 xui-id="5188285" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188285" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBO4P62DnrLBP801vX9Y5qfEKiEliUBFT1g9ywPBWAseh#.mkv
-#EXTINF:-1 xui-id="5188286" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188286" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDGXoWIJxmvBonSubauqXESzmBYNS16H1oV4g4DNFzX_#.mkv
-#EXTINF:-1 xui-id="5188287" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188287" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJgbpaMdSnjYnU4cnjTrOoSh7AfNHrlf3JM_Vffe8shJ#.mkv
-#EXTINF:-1 xui-id="5188288" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188288" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBPoDeVMJziJ89mgUElq5K3nOVchQv6LiB_aUdNFaFdSI#.mp4
-#EXTINF:-1 xui-id="5188289" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188289" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHni9hHyWu_dGZZ8-it4WS6aqf2UwJcsOuTOgft6hUgD#.mkv
-#EXTINF:-1 xui-id="5188298" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5188298" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBAHI8En0MV7WY98IBfwzy5B6CRIgDKPs_XDuuIaNIuL#.mkv
-#EXTINF:-1 xui-id="5188304" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5188304" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGyqYRTagpsFtcO2oVI4lcXAbSL9Z7FbEbkQxlhP6FDW#.mp4
-#EXTINF:-1 xui-id="5188305" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5188305" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBO-TkHiXQgE8crAFaBJTGdNc97qWMR3BSMXXCm0wSBoc#.mkv
-#EXTINF:-1 xui-id="5188558" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5188558" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJ3mMJZjc_9QWn0hjoEOHk_2I1XqHv7cNtLiVS3ESFuk#.mkv
-#EXTINF:-1 xui-id="5188559" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5188559" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNBypdw9gy54Lgmvw5iG6X1H6qSZk4jggHSmq3AqAKxc#.mkv
-#EXTINF:-1 xui-id="5188561" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5188561" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBB0NGOA0T2QHgrd_DjPzYsdltpdC5tSP1eYfW7nibbze#.mp4
-#EXTINF:-1 xui-id="5188575" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188575" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOPPvAH-636TRunosxWTVG6WKF7HyzYdYH9bkFYjNlSK#.mp4
-#EXTINF:-1 xui-id="5188576" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188576" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBEjvD04I9fgFo2ubFcljoCs_Fmu65NEfT72-DojM72pI#.mkv
-#EXTINF:-1 xui-id="5188577" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188577" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDEaAcd2oQF8mX3C0U610XyCk4T-nXqpF2ZSjPNE1V31#.mp4
-#EXTINF:-1 xui-id="5188585" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188585" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNKQBkPywYrOQ3a9dXgR_sL8q0E5rfiaDYA-S1dhL8eX#.mkv
-#EXTINF:-1 xui-id="5188586" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188586" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBP1NfNyKby6HVaRJIpsvbTh_QxT3N8GK4MzwTT6f8wpj#.mkv
-#EXTINF:-1 xui-id="5188587" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188587" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHOlmxCFoJ_hjz7jksKwVyTP2llFvC1sqmf6pxA6xmdU#.mp4
-#EXTINF:-1 xui-id="5188588" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5188588" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGJfs1wmG7uo9k1tonOAykcBdHSSKAEfDvgaz1tNQTC1#.mkv
-#EXTINF:-1 xui-id="5188724" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Super Hero (2022)	
+#EXTINF:-1 xui-id="5188724" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | CIENCIA FICCION",Dragon Ball Super: Super Hero (2022)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFKgQoIXs0p-AXoYJ_lIuxYv1p68pukFeTFp5bRPHi7o#.mp4
-#EXTINF:-1 xui-id="5190788" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="
-http://legendstv.com.mx:80/images/EE1y-cKE26HXC2aSJGzpl4mbsu9tPIu5DcyI8cfNoJXxQVzJKTpIwUNdIghQq1LdLcr0N-_X4sPwmyFry0xjr546sLPGzEl4kmz3u3UHUes.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El más fuerte del mundo (1990)	
+#EXTINF:-1 xui-id="5189708" tvg-name="1, 2, 3... Splash (1984)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCoMlUfi-p43ly7QohACooyoAA9yh_IpH58c0oVvoU1w.jpg" group-title="☑️ | COMEDIA",1, 2, 3... Splash (1984)
+http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBF2_tQfpBmxz0z8AtwLhOY7eAikhOpfCB_lohbIoBUkk#.mkv
+#EXTINF:-1 xui-id="5190788" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="http://legendstv.com.mx:80/images/EE1y-cKE26HXC2aSJGzpl4mbsu9tPIu5DcyI8cfNoJXxQVzJKTpIwUNdIghQq1LdLcr0N-_X4sPwmyFry0xjr546sLPGzEl4kmz3u3UHUes.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El más fuerte del mundo (1990)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBPsYQcX_5elQ7Y5ie2edjTCgRxtLxneXWOLl1sNGZ3ru#.mkv
-#EXTINF:-1 xui-id="5190796" tvg-name="Toriko & One Piece & Dragon Ball Z (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLg-S5vCgICij8lVp5hYw8Z-8REAQrV8VMdIO3_rRpKPA.jpg" group-title="☑️ | ANIME",Toriko & One Piece & Dragon Ball Z (2013)	
+#EXTINF:-1 xui-id="5190796" tvg-name="Toriko & One Piece & Dragon Ball Z (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLg-S5vCgICij8lVp5hYw8Z-8REAQrV8VMdIO3_rRpKPA.jpg" group-title="☑️ | ANIME",Toriko & One Piece & Dragon Ball Z (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOzV96gqnjQwO27afwJf8VQ1GSrhBrmgShnwHM0tovZ2#.mp4
-#EXTINF:-1 xui-id="5190822" tvg-name="Dragon Ball GT: 100 años después (1997)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1dr5I73KbbsyUeEPBgVlZ9j-5Lp4_FPb2tUKSQQTnHs.jpg" group-title="☑️ | ANIME",Dragon Ball GT: 100 años después (1997)	
+#EXTINF:-1 xui-id="5190822" tvg-name="Dragon Ball GT: 100 años después (1997)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1dr5I73KbbsyUeEPBgVlZ9j-5Lp4_FPb2tUKSQQTnHs.jpg" group-title="☑️ | ANIME",Dragon Ball GT: 100 años después (1997)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBLnrHt7_m6jt6pBzMZra14aNvIz-hoLqylrtSIKypkcS#.mkv
-#EXTINF:-1 xui-id="5190826" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3OptfT4ipvzphWW8jrozWuhkysL2jCJM8uVaGGxa9c0.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los mejores rivales (1991)	
+#EXTINF:-1 xui-id="5190826" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3OptfT4ipvzphWW8jrozWuhkysL2jCJM8uVaGGxa9c0.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los mejores rivales (1991)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBLmBa30nb-3tN9Pbq1I-GElfD6oD8AyjERlRpEaNE9ww#.mkv
-#EXTINF:-1 xui-id="5190827" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3OptfT4ipvzphWW8jrozWuhkysL2jCJM8uVaGGxa9c0.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los mejores rivales (1991)	
+#EXTINF:-1 xui-id="5190827" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3OptfT4ipvzphWW8jrozWuhkysL2jCJM8uVaGGxa9c0.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los mejores rivales (1991)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJK3BGLe5MsKyfx3I4oaYHzOXnZcBpOKJiq20yrZw5-8#.mkv
-#EXTINF:-1 xui-id="5190830" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6FmNVUCcXoQNpi6A_Ht3BlClAAPCj5iQuk-iv8ItHK4.jpg" group-title="☑️ | ANIME",Dragon Ball Z: ¡Fusión! (1995)	
+#EXTINF:-1 xui-id="5190830" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6FmNVUCcXoQNpi6A_Ht3BlClAAPCj5iQuk-iv8ItHK4.jpg" group-title="☑️ | ANIME",Dragon Ball Z: ¡Fusión! (1995)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDz-FrIBMTMKbUQ_jISe5v1A4ltbfyv1-U-mkYVSz0fE#.mkv
-#EXTINF:-1 xui-id="5190832" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL147g9vyBti06V96-Q7lroQvd5wWhArDJ9Oy0PqYRj7o.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los tres grandes Super Saiyans (1992)	
+#EXTINF:-1 xui-id="5190832" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL147g9vyBti06V96-Q7lroQvd5wWhArDJ9Oy0PqYRj7o.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los tres grandes Super Saiyans (1992)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNaRgEVl-nuK2Let0ipaaKj3nlsf65le-H27I0pRBY5Z#.mkv
-#EXTINF:-1 xui-id="5190842" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIME",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5190842" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIME",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFcUWQiSyyer6POPDAV_K9DGJ3AY00OkFXmRN62l6uz-#.mkv
-#EXTINF:-1 xui-id="5190843" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5190843" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBMUrNxd1JbmQ-oSJuqvUHsh4-kGm3Uth0K5Pm--QuEVm#.mkv
-#EXTINF:-1 xui-id="5190855" tvg-name="Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb1wbNSZ8qELEiLCLT5dP2imMNTw0TAty3evyseE7QkY.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)	
+#EXTINF:-1 xui-id="5190855" tvg-name="Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb1wbNSZ8qELEiLCLT5dP2imMNTw0TAty3evyseE7QkY.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBAGONedwmjuFsJxMeS6Mzt_l-rBN8BAMIouNKgRPhNFS#.mkv
-#EXTINF:-1 xui-id="5190864" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)	
+#EXTINF:-1 xui-id="5190864" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBYAq8VCZ2Wz8tpJU8_WulYGh1U1bOwNEUIdb5B_aUxj#.mkv
-#EXTINF:-1 xui-id="5190878" tvg-name="Dragon Ball Z: La super batalla (1990)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtDjCaZD8rh9qF7ugnSsp9LTvtPaQQOziky4uj8wyigw.jpg" group-title="☑️ | ANIME",Dragon Ball Z: La super batalla (1990)	
+#EXTINF:-1 xui-id="5190878" tvg-name="Dragon Ball Z: La super batalla (1990)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtDjCaZD8rh9qF7ugnSsp9LTvtPaQQOziky4uj8wyigw.jpg" group-title="☑️ | ANIME",Dragon Ball Z: La super batalla (1990)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJqE-kDLArCvgVeUUgvtPKspGkGgH25mdtO-acp1xdPH#.mkv
-#EXTINF:-1 xui-id="5190880" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5190880" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBIZ-KPLzMhoyo_TTs1GMrARhnUksFj37SaudgDIZtWLC#.mp4
-#EXTINF:-1 xui-id="5190882" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)	
+#EXTINF:-1 xui-id="5190882" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBKsSRkPYhJ9P0NkH8dGYrP6pBxgszhinjiK8bBoFTr6f#.mkv
-#EXTINF:-1 xui-id="5190894" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)	
+#EXTINF:-1 xui-id="5190894" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDB7ktx2u5JcdJvbwlEKgZaHHyBeQLib234aBKdle1GH#.mkv
-#EXTINF:-1 xui-id="5190908" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL147g9vyBti06V96-Q7lroQvd5wWhArDJ9Oy0PqYRj7o.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los tres grandes Super Saiyans (1992)	
+#EXTINF:-1 xui-id="5190908" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL147g9vyBti06V96-Q7lroQvd5wWhArDJ9Oy0PqYRj7o.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Los tres grandes Super Saiyans (1992)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBcASFxAikDzBGoRrVn3dkjUk2S__5Ay4P0CdxKQ-ZVL#.mkv
-#EXTINF:-1 xui-id="5190997" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIME",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5190997" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIME",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBH25qJ7kZmrhZycm3OR1rNmLPRrz7ZUKs6p-RPcNDJuA#.mp4
-#EXTINF:-1 xui-id="5191040" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | ANIME",Dragon Ball Super: Super Hero (2022)	
+#EXTINF:-1 xui-id="5191040" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | ANIME",Dragon Ball Super: Super Hero (2022)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBM5F1F83jSqeC_qjj4-UZr-OQnVTXL9W4SsbKC0L7CFD#.mkv
-#EXTINF:-1 xui-id="5191060" tvg-name="Dragon Ball Z: Episodio de Bardock (2011)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuMOjDvusBhpmuuvJgl0qfPjiQj-JtNlOJeiBUPZeAPM.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Episodio de Bardock (2011)	
+#EXTINF:-1 xui-id="5191060" tvg-name="Dragon Ball Z: Episodio de Bardock (2011)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuMOjDvusBhpmuuvJgl0qfPjiQj-JtNlOJeiBUPZeAPM.jpg" group-title="☑️ | ANIME",Dragon Ball Z: Episodio de Bardock (2011)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNNyhjpNwJ7qZDQrfYq9jpffrFQihntoxnOO4-Ya71HH#.mkv
-#EXTINF:-1 xui-id="5191078" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6FmNVUCcXoQNpi6A_Ht3BlClAAPCj5iQuk-iv8ItHK4.jpg" group-title="☑️ | ANIME",Dragon Ball Z: ¡Fusión! (1995)	
+#EXTINF:-1 xui-id="5191078" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6FmNVUCcXoQNpi6A_Ht3BlClAAPCj5iQuk-iv8ItHK4.jpg" group-title="☑️ | ANIME",Dragon Ball Z: ¡Fusión! (1995)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBI7POrImVWaV5azWMnEQyfpKSPZpFXH5plTJPUb4Q5xB#.mkv
-#EXTINF:-1 xui-id="5191081" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)	
+#EXTINF:-1 xui-id="5191081" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_PnCtHeTVD3H7r7sXzmQkGHdHk78eWuAgvlG5q8DqfA.jpg" group-title="☑️ | ANIME",Dragon Ball Z: El combate definitivo (1994)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBL6wx6pghmLuZqEAXw4etro5ITV0litCH2NYjlrfikex#.mkv
-#EXTINF:-1 xui-id="5199705" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199705" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBLIDjqVqLjp6fdjPSzFDk2r9fF78SIu0uHX4t3QwotgJ#.mkv
-#EXTINF:-1 xui-id="5199706" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199706" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDQ2ekD1AGBgH84zGGa3MhB2QqiIhwUjeWPrVvrl5dNb#.mkv
-#EXTINF:-1 xui-id="5199707" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199707" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBAf4Ny-jM7tPHsInKqg7S7OUxQEI3XceQpn-RgJ0ClMY#.mp4
-#EXTINF:-1 xui-id="5199708" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199708" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBKyrGB9rImd8bqHuOr3PDRFcR0h3-NC831g7dZFAZWYI#.mp4
-#EXTINF:-1 xui-id="5199709" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199709" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJ4lGJIdmEInl2qEXjO-5sDvON-hrpzR_Nt4ZWK0wfIz#.mkv
-#EXTINF:-1 xui-id="5199710" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199710" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGJR5R9od_RQ4n-n8YBViRt8p8tTTu6oGXSiMNdX7sIQ#.mkv
-#EXTINF:-1 xui-id="5199711" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199711" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBIbQ1_zpbC1hC3iReugpMzrjkghKdbC2EPe8RVOuF1cO#.mkv
-#EXTINF:-1 xui-id="5199712" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199712" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBGiUlAwHO_VcM6ZFmb__Cq-P_Kf-VirvZQNQJTLuP-_p#.mp4
-#EXTINF:-1 xui-id="5199713" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199713" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOya1gbimI66wDc19YJFVWYHkCXWPAlQxLvFjolVv6Xg#.mkv
-#EXTINF:-1 xui-id="5199715" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5199715" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBC6u5-TMfCrBX0qeN5g-h99oqBqetpmKgjMCisb4gO3z#.mkv
-#EXTINF:-1 xui-id="5199716" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5199716" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJ8RPpnqrOH7NhcycIA5IbjX9ClXiRiGgUyVhGA2CrIa#.mp4
-#EXTINF:-1 xui-id="5199717" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5199717" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBE5r1p3j-Wb2P2jQhZgTK4FKRppvp2vTy5LoO2GGWnUo#.mkv
-#EXTINF:-1 xui-id="5199835" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5199835" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBN2TyCxzsQx7i81vgzgUA8D_Vot8moaX5DIaNoYm4T7a#.mkv
-#EXTINF:-1 xui-id="5199836" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5199836" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOxsd1-Ig5hmuHC95RFa3t9I7KWmJGcNgOrzey1hfxkb#.mkv
-#EXTINF:-1 xui-id="5199838" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5199838" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ANIMACION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBJMjAZi5dAmsiQbecOHrSTexiIF6RDH02TbkGqN195qI#.mp4
-#EXTINF:-1 xui-id="5199840" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199840" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBN9sDUKfKVHGmt5MrwG3duudcK4VzaTgjsvscJpMYJ9P#.mp4
-#EXTINF:-1 xui-id="5199841" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199841" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBEpmZ9UAWBcuF_21wY41sDkwUCXwxOsQM8Bug3CcqH0e#.mkv
-#EXTINF:-1 xui-id="5199842" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199842" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBN2cYtHJNTi0P4sietGEIZaT9jxk2-9JlCkV2enqU2J-#.mp4
-#EXTINF:-1 xui-id="5199843" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199843" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBCQZjuPYTF_J3rP14mn1LSlHuFa7sELlwhpG7tEJiQAv#.mkv
-#EXTINF:-1 xui-id="5199844" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199844" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBImqqczEqcSjKjZzmh5sLUY4Lif2-J-ypflbjZv4iAu_#.mkv
-#EXTINF:-1 xui-id="5199845" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199845" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBKhFBhiFullTw5-Hx8J2D65qBOG_WUaf3pf2iyDNcZR9#.mp4
-#EXTINF:-1 xui-id="5199846" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5199846" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBE6KutqdrRQDw_Q_OwF2I8YUzmQjp5Uki0MmGdoZFAX8#.mkv
-#EXTINF:-1 xui-id="5199954" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Super Hero (2022)	
+#EXTINF:-1 xui-id="5199954" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Super Hero (2022)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBG-pyB7Y6vrvT9hLIID7SF5TleQ0sJ7JSSszkIeIeIg4#.mp4
-#EXTINF:-1 xui-id="5200231" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLh9afNfckj8ulzQQtIcAj89Uu3ybbleSojMPZoTpFiSY.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Super Hero (2022)	
+#EXTINF:-1 xui-id="5200231" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLh9afNfckj8ulzQQtIcAj89Uu3ybbleSojMPZoTpFiSY.jpg" group-title="☑️ | ANIMACION",Dragon Ball Super: Super Hero (2022)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBN0YoW46osR-YytH0Ykzygi0VyiKaToNQYA6ubTYdPkL#.mp4
-#EXTINF:-1 xui-id="5209305" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5202429" tvg-name="1, 2, 3... Splash (1984)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCoMlUfi-p43ly7QohACooyoAA9yh_IpH58c0oVvoU1w.jpg" group-title="☑️ | ROMANCE",1, 2, 3... Splash (1984)
+http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFkJVNsBYfGsL0RIuFSzFShuc7XAY7cM6_zw4I3JrYFM#.mkv
+#EXTINF:-1 xui-id="5209305" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBPQfWkLpLzWT21sRwBOPBvSvjPVM0QttY4fJ4zY36LOd#.mkv
-#EXTINF:-1 xui-id="5209306" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209306" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBHgkZo5h3ObA5TFmTdyG5aFxWxpT2zKPZ-5yl06PNEk6#.mkv
-#EXTINF:-1 xui-id="5209307" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209307" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOrbzB_caB5_7uZpG38aK28Ylh-PsV9nFXzoZ-vmzpkB#.mp4
-#EXTINF:-1 xui-id="5209308" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209308" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBKTqzA4gYJ6oUN9VSzoUpOx7vKJBEL-huC5nMjgePKBj#.mp4
-#EXTINF:-1 xui-id="5209309" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209309" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBC3PFCu1FtlIW-5JMneOs6SXCaEXU_fNipGNR2nHrbM7#.mkv
-#EXTINF:-1 xui-id="5209310" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209310" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBAf30mEHIQfA2Bw5rTkTNtEYUUvOGRff6uCtUXVPivJ1#.mkv
-#EXTINF:-1 xui-id="5209311" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209311" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBMOpyW53der8_qeTancwWtQOgdnZTtM4awpDLhwFrSAC#.mkv
-#EXTINF:-1 xui-id="5209312" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209312" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBxCE6tbqr9n2l9rvvb95AK530ZWVsxH629JomHNAD8s#.mp4
-#EXTINF:-1 xui-id="5209313" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209313" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBLvBb19fFeg177-E2MX_uSYybGkzFk_lGqWgEkecnOlM#.mkv
-#EXTINF:-1 xui-id="5209323" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5209323" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBFO_Vf-L8Ob_onCZy1rdt9HOf61P7ex6o7NRoOR4J1IZ#.mkv
-#EXTINF:-1 xui-id="5209324" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
-
+#EXTINF:-1 xui-id="5209324" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBIB2CHnfgvKX9ppr6WjiYqG7RzWdygfLKgOUDdKuHz0V#.mp4
-#EXTINF:-1 xui-id="5209325" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5209325" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNPxOaDOUck2AWa2o3mKtnmfZ1tBFf18Eysaz5aKsw5t#.mkv
-#EXTINF:-1 xui-id="5209633" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5209633" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBNEenYHPgnJnU_o2TBGIBLF81v1CRnfAnPznktjZ7xoi#.mkv
-#EXTINF:-1 xui-id="5209634" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5209634" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBISoh9Dp6k9gEf0CjSuO2de1BUH_qAbjGcXw-l6P7N_y#.mkv
-#EXTINF:-1 xui-id="5209641" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)	
+#EXTINF:-1 xui-id="5209641" tvg-name="Dragon Ball Z: La Batalla de los Dioses (2013)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGmbf_sR-4m_Ftrm8uaJad_rOOBgClsM_czGC9VxKVKA.jpg" group-title="☑️ | ACCION",Dragon Ball Z: La Batalla de los Dioses (2013)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBBujXxer4jH1rKGjwvDZTTtDYqTyUpFUM21pvxHiHMwI#.mp4
-#EXTINF:-1 xui-id="5209649" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209649" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBLi7pWgDOniI134YnwVVOLM_gQdfiRbGC4zuZhMeeWc5#.mp4
-#EXTINF:-1 xui-id="5209650" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209650" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBOxpkVKwrIsPFv-AQUjA5-fwqjJCvyjOFEWiasup2etH#.mkv
-#EXTINF:-1 xui-id="5209651" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209651" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDtPSCiH0mquM4EJ_4BUS3v5v3eG9fR74OXY-RzTawBz#.mp4
-#EXTINF:-1 xui-id="5209654" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209654" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDd5KEJxYAPAmS6YqbDPmCCGvPr4MfJcmhnJtYVGZeDE#.mkv
-#EXTINF:-1 xui-id="5209655" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209655" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBI1q4zg2fc6SZFbgus2ssdP43bwo0rr_WnGQ2v1XT621#.mkv
-#EXTINF:-1 xui-id="5209656" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209656" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBDBxpunuJeN4a8FaF174erPrLWv3wCcnEUj15bqjs-GQ#.mp4
-#EXTINF:-1 xui-id="5209658" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)	
+#EXTINF:-1 xui-id="5209658" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe3xEt-wif_W6Z-4o-JiyAS6II_Ww9mJ43Ry9bzgLb08.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Broly (2018)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBPprcGL_MraZdWWwdx3gij-k0GXveDOmlaZ8DxZre0tv#.mkv
-#EXTINF:-1 xui-id="5209852" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="
-http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Super Hero (2022)	
+#EXTINF:-1 xui-id="5209852" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpW_Dm5UbKi3rkhi56hrvjvNmVg92zR9wfD1lHtY_Akg.jpg" group-title="☑️ | ACCION",Dragon Ball Super: Super Hero (2022)
 http://asb.lat:80/play/SVdPNyjOxty3FegogcLsBMXw1CBiAovIAJpo45NqfzgOrcZH7Wt6JQUhDiT_ESiv#.mp4
-
-
-
