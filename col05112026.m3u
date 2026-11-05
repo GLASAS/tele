@@ -97,3 +97,111 @@ http://191.97.55.72:8000/play/a0043/index.m3u8
 http://191.97.55.72:8000/play/a0044/index.m3u8
 #EXTINF:-1 group-title="-",VIA TELEVISION
 http://191.97.55.72:8000/play/a0045/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La Mangosta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Mangosta (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288117.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros, Pero Un Poco Mejor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg" group-title="→ VOD ESTRENOS 2026 ←",Nosotros, Pero Un Poco Mejor (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288118.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Dogs Perfect Christmas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg" group-title="→ VOD ESTRENOS 2026 ←",A Dogs Perfect Christmas (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288119.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Primetime (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Primetime (2026) SUB
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288107.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La isla olvidada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg" group-title="→ VOD ESTRENOS 2026 ←",La isla olvidada (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288106.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Entrega al limite (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg" group-title="→ VOD ESTRENOS 2026 ←",Entrega al limite (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288105.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="En la Ruta del Crimen (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMkO644Zqi4O4aPYCpCq3YMpr2C.jpg" group-title=" → VOD ESTRENOS 2025 ←",En la Ruta del Crimen (2025)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288104.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El ultimo invierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlH6zZZR7joehD5plDEVFDSww8Z.jpg" group-title="→ VOD ESTRENOS 2026 ←",El ultimo invierno (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288090.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Verity: La sombra de un engaño (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5j1YUuamobLACkzlkzvWfNuzFNg.jpg" group-title="→ VOD ESTRENOS 2026 ←",Verity: La sombra de un engaño (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288089.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Rocky (2026) (CAM) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Yo Soy Rocky (2026) (CAM) SUB
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288065.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Asesino serial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs9GQ9n95BdVE8Uv1ZKNS1bSwCf.jpg" group-title="→ VOD TERROR ←",Asesino serial
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288061.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La Caceria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lDIdAJb1IaC6qA48sTv62HlZZM.jpg" group-title="→ VOD DRAMA ←",La Caceria
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288062.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Otra Tierra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQLQE2p91XWS8YVjX6rxtNXKvd2.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Otra Tierra
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288063.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Maquina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36AUzO9b7RFB0OG4b184rG8X3KJ.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Ex-Maquina
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288064.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Clayface (2026)  (CAM) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avCm6vJzdIz9SCIZJ2CuBupGWDQ.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Clayface (2026)  (CAM) SUB
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288060.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Enterrado Vivo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecUjyPn3MtcDb4JMVLoefpDdsU8.jpg" group-title="→ VOD ESTRENOS 2026 ←",Enterrado Vivo (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288057.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Esto no es un simulacro (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9hlWR9jOVQPiWuMrWqDBirkfmI.jpg" group-title="→ VOD ESTRENOS 2026 ←",Esto no es un simulacro (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288058.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El Regalo De Cumpleaños (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtifYyLgIgACVwsbVodZ3TZ2Yde.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Regalo De Cumpleaños (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288059.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Una historia de Derry (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmhkSZYcSMVw8IWiNROyWaD3Sal.jpg" group-title="→ VOD ESTRENOS 2026 ←",Una historia de Derry (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288056.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Buena suerte, diviértete, no mueras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blfTYXDP1luoeku48pVkrZ6Zjwv.jpg" group-title="→ VOD ESTRENOS 2026 ←",Buena suerte, diviértete, no mueras (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288047.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El Elegido del Mal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BSDrV3NJRXf00sQDclPlLwwK26.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Elegido del Mal (2025)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/288042.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Herencia Siniestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFhz88v5bGzojDdzb4Nuh9d6oes.jpg" group-title="→ VOD TERROR ←",Herencia Siniestra
+
+http://myultratv.com:8080/movie/77990106tv/20082023/287924.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rosario: Herencia Maldita " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg" group-title="→ VOD TERROR ←",Rosario: Herencia Maldita 
+
+http://myultratv.com:8080/movie/77990106tv/20082023/287925.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Baghead: Contacto Con La Muerte " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64g021dx46bKaUW9lMnrLk2dj7L.jpg" group-title="→ VOD TERROR ←",Baghead: Contacto Con La Muerte 
+
+http://myultratv.com:8080/movie/77990106tv/20082023/287926.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipsis Z: Nuevo mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5LakPnLfzydW4YFUKfPeiODiWu.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apocalipsis Z: Nuevo mundo (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/287923.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Colision (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg" group-title="→ VOD ESTRENOS 2026 ←",Colision (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/287918.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Devorador de Almas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rbcPfN9nOWMCTbeIJvTed5prBi.jpg" group-title="→ VOD ESTRENOS 2026 ←",Devorador de Almas (2026)
+
+http://myultratv.com:8080/movie/77990106tv/20082023/287916.mp4
