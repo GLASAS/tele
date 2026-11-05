@@ -1,34 +1,20 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="5326209" tvg-id="" tvg-name="ES | ¡HOLA! PLAY" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="📺 ≣ ES • TDT",ES | ¡HOLA! PLAY
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mqXTn1_qVAeFl8VM_BMb70/m3u8
-
-#EXTINF:-1 xui-id="5326210" tvg-id="" tvg-name="ES | +24" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | +24
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9qR7jzvQkt359v79E0B_WRY/m3u8
-
-#EXTINF:-1 xui-id="5326211" tvg-id="" tvg-name="ES | +24" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | +24
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9pJy43bjNuw3kptN-ASWU2g/m3u8
-
-#EXTINF:-1 xui-id="5326218" tvg-id="" tvg-name="ES | 24H CANARIAS" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | 24H CANARIAS
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9ifIfG5BTRZua_eEI2p5fSs/m3u8
-
-#EXTINF:-1 xui-id="5326220" tvg-id="" tvg-name="ES | 24H CATALUNYA" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | 24H CATALUNYA
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9hepjfB5YEHlAq0PM0SpBJ4/m3u8
-
-#EXTINF:-1 xui-id="5326221" tvg-id="" tvg-name="ES | 24H CATALUNYA" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | 24H CATALUNYA
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9sDbBwQbFoAgWEPrrY_AJVo/m3u8
-
-#EXTINF:-1 xui-id="5326222" tvg-id="" tvg-name="ES | 28 KANALA" tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 28 KANALA
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9nA9uG5_TDqMpFEjuS_r84w/m3u8
-
-#EXTINF:-1 xui-id="5326223" tvg-id="" tvg-name="ES | 33TV" tvg-logo="https://graph.facebook.com/33Television/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 33TV
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9ihjEFoy_37ecYryWDU9CDY/m3u8
-
-#EXTINF:-1 xui-id="5326224" tvg-id="" tvg-name="ES | 3ABN USA" tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 3ABN USA
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9p2DkdU2U18XMw26hkzlbsM/m3u8
-
-#EXTINF:-1 xui-id="5326225" tvg-id="" tvg-name="ES | 3ABN USA EN" tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 3ABN USA EN
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9pe3fbUeyJyU-7EhSm22_Pw/m3u8
-
-#EXTINF:-1 xui-id="5326226" tvg-id="" tvg-name="ES | 3CAT CÀMERES DEL TEMPS" tvg-logo="https://graph.facebook.com/3CatInfoElTemps/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 3CAT CÀMERES DEL TEMPS
-http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9gytLCsgyCw-C7foUV3uEZ4/m3u8
+#EXTINF:-1 xui-id="5179037" tvg-id="" tvg-name="#22 Dragon Ball" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VpFT-OTA_x97NBgmTvMRtNkvgzHGduy_qQ&s" group-title="⭐ ≣ 24/7 VIP",#22 Dragon Ball
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mRI2GIDP5AqxWzDAXLtUQ4/m3u8
+#EXTINF:-1 xui-id="5181386" tvg-id="" tvg-name="24/7 | La Casa del Dragon" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID285513.png" group-title="📺 ≣ 24/7 SERIES • 10 SEG",24/7 | La Casa del Dragon
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9kxv0JiuVK7Hu7SV1L0pSY4/m3u8
+#EXTINF:-1 xui-id="5181436" tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556105.png" group-title="📺 ≣ 24/7 CARICATURAS • 10 SEG",24/7 | Dragon Ball GT
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9ml9y4hxueQ_kpdMLFmnEuo/m3u8
+#EXTINF:-1 xui-id="5181437" tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556014.png" group-title="📺 ≣ 24/7 CARICATURAS • 10 SEG",24/7 | Dragon Ball Super
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9n7a98SS4-VdLkqkGaRye5Y/m3u8
+#EXTINF:-1 xui-id="5181438" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga de los Androides" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID286850.png" group-title="📺 ≣ 24/7 CARICATURAS • 10 SEG",24/7 | Dragon Ball Z Saga de los Androides
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mCojImpDQ5yn3yiaT95qW8/m3u8
+#EXTINF:-1 xui-id="5181439" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Freezer" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556104.png" group-title="📺 ≣ 24/7 CARICATURAS • 10 SEG",24/7 | Dragon Ball Z Saga Freezer
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mYOvk3Ax1m5PGFkwsHLUDk/m3u8
+#EXTINF:-1 xui-id="5181440" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Majin Buu" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID556118.png" group-title="📺 ≣ 24/7 CARICATURAS • 10 SEG",24/7 | Dragon Ball Z Saga Majin Buu
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9s7iLK4oaZntl04n12oqeC4/m3u8
+#EXTINF:-1 xui-id="5181441" tvg-id="" tvg-name="24/7 | Dragon Ball Z | Saga de Cell" tvg-logo="http://38.101.149.51/LEGENDS/salida_imagenes_2/ID286851.png" group-title="📺 ≣ 24/7 CARICATURAS • 10 SEG",24/7 | Dragon Ball Z | Saga de Cell
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9gqtSfBo7BE27xuxbtr3224/m3u8
+#EXTINF:-1 xui-id="5329759" tvg-id="" tvg-name="Dragon_Ball_Z_Kai" tvg-logo="http://codigos.asbstr.org/imgv1/24-7_vip.png" group-title="⭐ ≣ 24/7 VIP",Dragon_Ball_Z_Kai
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9j8wMO-CeB2IYzJ3qHOt6Wg/m3u8
