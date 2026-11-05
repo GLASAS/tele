@@ -1,0 +1,34 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="5326209" tvg-id="" tvg-name="ES | ¡HOLA! PLAY" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="📺 ≣ ES • TDT",ES | ¡HOLA! PLAY
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9mqXTn1_qVAeFl8VM_BMb70/m3u8
+
+#EXTINF:-1 xui-id="5326210" tvg-id="" tvg-name="ES | +24" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | +24
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9qR7jzvQkt359v79E0B_WRY/m3u8
+
+#EXTINF:-1 xui-id="5326211" tvg-id="" tvg-name="ES | +24" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | +24
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9pJy43bjNuw3kptN-ASWU2g/m3u8
+
+#EXTINF:-1 xui-id="5326218" tvg-id="" tvg-name="ES | 24H CANARIAS" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | 24H CANARIAS
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9ifIfG5BTRZua_eEI2p5fSs/m3u8
+
+#EXTINF:-1 xui-id="5326220" tvg-id="" tvg-name="ES | 24H CATALUNYA" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | 24H CATALUNYA
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9hepjfB5YEHlAq0PM0SpBJ4/m3u8
+
+#EXTINF:-1 xui-id="5326221" tvg-id="" tvg-name="ES | 24H CATALUNYA" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="📺 ≣ ES • TDT",ES | 24H CATALUNYA
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9sDbBwQbFoAgWEPrrY_AJVo/m3u8
+
+#EXTINF:-1 xui-id="5326222" tvg-id="" tvg-name="ES | 28 KANALA" tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 28 KANALA
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9nA9uG5_TDqMpFEjuS_r84w/m3u8
+
+#EXTINF:-1 xui-id="5326223" tvg-id="" tvg-name="ES | 33TV" tvg-logo="https://graph.facebook.com/33Television/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 33TV
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9ihjEFoy_37ecYryWDU9CDY/m3u8
+
+#EXTINF:-1 xui-id="5326224" tvg-id="" tvg-name="ES | 3ABN USA" tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 3ABN USA
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9p2DkdU2U18XMw26hkzlbsM/m3u8
+
+#EXTINF:-1 xui-id="5326225" tvg-id="" tvg-name="ES | 3ABN USA EN" tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 3ABN USA EN
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9pe3fbUeyJyU-7EhSm22_Pw/m3u8
+
+#EXTINF:-1 xui-id="5326226" tvg-id="" tvg-name="ES | 3CAT CÀMERES DEL TEMPS" tvg-logo="https://graph.facebook.com/3CatInfoElTemps/picture?width=200&height=200" group-title="📺 ≣ ES • TDT",ES | 3CAT CÀMERES DEL TEMPS
+http://asb.lat:80/play/deB_rvVmZPUOp1WnJ3mO9gytLCsgyCw-C7foUV3uEZ4/m3u8
